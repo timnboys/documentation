@@ -55,4 +55,4 @@ STYLE END
 
 *  **[![WHMCS Themer](assets/themer.png)<br/>WHMCS Themer](https://support.gohigheris.com/docs/display/THEMER/WHMCS+Themer+Home)**
 
-*  **[Accounts & Billing](accounts_billing)**
+*  **[![Accounts & Billing](assets/accountandbilling.png)<br/>Accounting & Billing](accounts_billing)**
