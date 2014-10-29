@@ -1,6 +1,6 @@
 ---
 title: Accounting and Billing
-breadcrumb: /documentation:Documentation/accounts_billing:Accounting & Billing/
+breadcrumb: /accounts_billing:Accounting & Billing/
 
 ---
 
