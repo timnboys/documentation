@@ -34,17 +34,25 @@ STYLE START
   font-weight: bold;
   font-size: medium;
 }
+\#gitdox ul > li a > img {
+  display: block;
+  margin: 5px auto;
+}
 
 STYLE END
  
 ---
 
-*  **[![J!WHMCS Integrator](assets/jwhmcs.png)](jwhmcs)**
+*  **[![J!WHMCS Integrator](assets/jwhmcs.png)<br/>J!WHMCS Integrator](https://support.gohigheris.com/docs/display/J25/J!WHMCS+2.5+Home)**
 
-*  **[Integrator 3](integrator3)**
+*  **[![Integrator 3](assets/integrator3.png)<br/>Integrator 3](https://support.gohigheris.com/docs/display/INT3/Product+Documentation)**
 
-*  **[Belong](belong)**
+*  **[![Belong](assets/belong.png)<br/>Belong](https://support.gohigheris.com/docs/display/BEL2/Belong+Home)**
 
-*  **[J!Blesta](jblesta)**
+*  **[![J!Blesta](assets/jblesta.png)<br/>J!Blesta](https://support.gohigheris.com/docs/display/JBL/J!Blesta+Home)**
+
+*  **[![In Touch](assets/intouch.png)<br/>In Touch](https://support.gohigheris.com/docs/display/INT/In+Touch+Home)**
+
+*  **[![WHMCS Themer](assets/themer.png)<br/>WHMCS Themer](https://support.gohigheris.com/docs/display/THEMER/WHMCS+Themer+Home)**
 
 *  **[Accounts & Billing](accounts_billing)**

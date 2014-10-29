@@ -1,8 +1,22 @@
 ---
 title: Skeleton Title
-breadcrumb: /joomla:Joomla/!extensions:Extensions/
+breadcrumb: /jblesta:J!Blesta/jwhmcs:J!WHMCS Integrator/TOC:Table of Contents/
+description: This is a skeleton file to show what can be done in here
+
+STYLE START
+\#gitdox ul > li a {
+  font-size: larger;
+  font-weight: bold;
+}
+
+STYLE END
 
 ---
+
+Style Declarations
+------------------
+Style declarations can be made in the upper section.  The declarations will be added to the document on the fly, so we can customize our page within the documentation.  To start defining declarations, use STYLE START and enter your styles beneath.  When finished, use STYLE END to have the styles completed.  Note that hashtags at the front must be escaped or they will be converted to H1 tags.
+
 
 Header H1
 =========
@@ -80,7 +94,7 @@ Tables
 Blocks of code.
 ---------------
 
-~~~ .html
+~~~ html
 <!DOCTYPE HTML>
 
 <html>
