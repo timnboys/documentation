@@ -1,6 +1,10 @@
 Table of Contents
 -----------------
 
+### [Accounts](accounts_billing/accounts.md)
+*  [How do I register?](accounts_billing/accounts.md#how-do-i-register-)
+*  [Why am I able to log in but not open a ticket?](accounts_billing/accounts.md#why-am-i-able-to-log-in-but-not-open-a-ticket-)
+
 ### [Billing & Payment](accounts_billing/billing.md)
 *  [What payment options are available?](accounts_billing/billing.md#what-payment-options-are-available)
 *  [Invoice for subscription payment?](accounts_billing/billing.md#if-i-pay-with-a-paypal-subscription,-do-i-have-to-pay-the-invoice-directly-)
