@@ -1,6 +1,6 @@
 ---
 title: Billing and Payments
-breadcrumb: /accounts_billing:Accounting & Billing/accounts_billing/billing.md:Billing/
+breadcrumb: /accounts_billing:Accounting & Billing/billing.md:Billing/
 
 ---
 
