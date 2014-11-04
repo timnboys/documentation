@@ -1,5 +1,5 @@
 ---
-title: Support & Upgrades
+title: Support and Upgrades
 breadcrumb: /accounts_billing:Accounting & Billing/support.md:Support & Upgrades/
 
 ---
