@@ -5,3 +5,7 @@
 ### [Billing & Payment](accounts_billing/billing.md)
 *  [What payment options are available?](accounts_billing/billing.md#what-payment-options-are-available)
 *  [Invoice for subscription payment?](accounts_billing/billing.md#if-i-pay-with-a-paypal-subscription,-do-i-have-to-pay-the-invoice-directly-)
+
+### [Support & Upgrades](accounts_billing/support.md)
+*  [What is a Support and Upgrade Pack?](accounts_billing/support.md#what-is-a-support-and-upgrade-pack-)
+*  [How do I renew or reorder?](accounts_billing/support.md#how-do-i-renew-or-reorder-)
