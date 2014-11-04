@@ -1,6 +1,3 @@
-Table of Contents
------------------
-
 ### [Accounts](accounts_billing/accounts.md)
 *  [How do I register?](accounts_billing/accounts.md#how-do-i-register-)
 *  [Why am I able to log in but not open a ticket?](accounts_billing/accounts.md#why-am-i-able-to-log-in-but-not-open-a-ticket-)

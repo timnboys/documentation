@@ -43,6 +43,8 @@ STYLE END
  
 ---
 
+Welcome to the Go Higher Documentation pages.  This is your single best source of step by step instructions, configurations and how-tos for our growing product line.  Be sure to bookmark this page and check here first before submitting a ticket, because chances are it's here.
+
 *  **[![J!WHMCS Integrator](assets/jwhmcs.png)<br/>J!WHMCS Integrator](https://support.gohigheris.com/docs/display/J25/J!WHMCS+2.5+Home)**
 
 *  **[![Integrator 3](assets/integrator3.png)<br/>Integrator 3](https://support.gohigheris.com/docs/display/INT3/Product+Documentation)**
