@@ -7,7 +7,7 @@ STYLE START
   background: none;
   display: inline-block;
   margin: -4px;
-  width: 250px;
+  width: 250px; 
 }
 \#gitdox ul > li > p {
   display: block;
