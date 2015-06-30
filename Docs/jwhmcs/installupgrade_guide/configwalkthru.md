@@ -14,26 +14,27 @@ After installing the component portion of the J!WHMCS Integrator, you will have 
 
 To access the component settings:
 
-1. Log into the back end of your Joomla! CMS. [![Log Into Joomla](http://goo.gl/0UztOB)](http://goo.gl/0UztOB)
-# Navigate in the backend of Joomla to Components > J!WHMCS Integrator.\\
-[!http://goo.gl/ENV34G|width=100!|http://goo.gl/ENV34G]
-# Click on the 'Options' button on the top right side of the page.\\
-[!http://goo.gl/QXEvMn|width=100!|http://goo.gl/QXEvMn]
+1. Log into the back end of your Joomla! CMS.<br />
+<img src="http://goo.gl/0UztOB" width="100px" />
+2. Navigate in the backend of Joomla to Components > J!WHMCS Integrator.<br />
+<img src="http://goo.gl/ENV34G" width="100px" />
+3. Click on the 'Options' button on the top right side of the page.<br />
+<img src="http://goo.gl/QXEvMn" width="100px" />
 
 Now you will be in the component settings
 
-h2. Initial Configuration
+#### Initial Configuration
 
-Assuming you have not configured the API yet to tie into WHMCS, follow these steps:\\
-[!http://goo.gl/PmZEdy|width=100!|http://goo.gl/PmZEdy]
+Assuming you have not configured the API yet to tie into WHMCS, follow these steps:<br />
+<img src="http://goo.gl/PmZEdy" width="100px" />
 
-* *Enable Product*\\
+1. *Enable Product*<br />
 Set this to 'Yes' to enable the J!WHMCS Integrator product
-* *Debug*\\
+* *Debug*<br />
 Set this to 'Yes' initially to permit debug testing for the visual integration.  Once everything is connecting, be sure to set this to 'No'
-* *Download ID*\\
+* *Download ID*<br />
 This is the download ID found on our site after you log into our site.  This permits you to download updates to our product when they become available automatically.
-* *API Token*\\
+* *API Token*<br />
 This is important - you must set a token here.  You will need this for the WHMCS portion of the configuration as well (both sides must have the same token for verification and authentication purposes).
 
 h2. Connect your API from Joomla into WHMCS
@@ -117,19 +118,19 @@ h3. Visual Integration
 
 There are several common adjustments to make in the Visual Integration section after the API starts connecting.
 
-* *Enable jQuery*\\
+* *Enable jQuery*<br />
 This setting is enabled by default and is included because WHMCS requires the jQuery library to be embedded when the site is rendered.  For most modern Joomla! sites however, jQuery is being included in the template already and embedding it again can cause conflicts and issues.  If your Joomla! site already embeds the jQuery library, you can toggle this to 'Disabled' to avoid potential Javascript conflicts.
-* *URL for Images / CSS / JS*\\
+* *URL for Images / CSS / JS*<br />
 For customers that have WHMCS installed on a subdomain and have an SSL certificate for that subdomain but not for the domain Joomla is installed on, you will want to pay attention to this setting.  This setting permits you to set the images, css and javascript links to another, secured location so your SSL doesn't appear broken.  For more information, please see [Handling Split Server Installations].
-* *Menu Item*\\
+* *Menu Item*<br />
 After the API starts connecting, this drop down will be populated with active menu items from your Joomla site.  Select a menu item that you have created in Joomla (preferably a menu item of type JWHMCS > Link Type).  This menu item you select can be configured to include modules which will then display around WHMCS.
-* *Reset CSS*\\
+* *Reset CSS*<br />
 J!WHMCS Integrator includes a reset.css file that attempts to reset styles.  For some Joomla! template / WHMCS template combinations this isn't necessary, so if your WHMCS content appears very crunched or out of place after integration, try disabling this setting.
-* *Show Navigation Bar*\\
+* *Show Navigation Bar*<br />
 WHMCS includes a navigation bar on their templates (default and classic have it at the top, portal it appears on the right side).  Enable this to see that navigation bar.
-* *Show Footer*\\
+* *Show Footer*<br />
 WHMCS includes a copyright at the bottom of their pages but when it's wrapped by your Joomla site, it may appear out of place. You can disable this setting to hide the footer.  Note that this will not remove the WHMCS Branding for a branded WHMCS install.
-* *Wrap Invoice*\\
+* *Wrap Invoice*<br />
 This feature will allow your invoices to be wrapped by your Joomla site as well.  Many customers prefer this to be disabled.
 
 [!http://goo.gl/wFCXbo|width=100!|http://goo.gl/wFCXbo]
@@ -138,9 +139,9 @@ h3. Language Map
 
 If you have a Joomla installation utilizing the Joomla! core multi-language capabilities, you will need to enable the language mapping settings for the visual integration to take place properly.
 
-* *Enable Language Mapping*\\
+* *Enable Language Mapping*<br />
 This setting is disabled by default, but if you have the multi-language capabilities setup in Joomla, you will want this enabled also.
-* *Default Language*\\
+* *Default Language*<br />
 This is the default Joomla! language to use when a language is not specified or mapped on the WHMCS side.
 
 The rest of the settings map the WHMCS language on the left to an appropriate language from Joomla in the drop down box next to it.
@@ -151,7 +152,7 @@ h3. Advanced Settings
 
 Most customers won't need to modify anything in here right off the bat.  The only setting you may want to adjust would be:
 
-* *Pass User Agent*\\
+* *Pass User Agent*<br />
 With mod_security and certain firewall solutions, connections can be dropped if there isn't a user agent passed along by the J!WHMCS Integrator when retrieving the site.  You may want to set this to Enabled if you are encountering issues getting the API to connect or are getting a 406 error code when debugging the visual settings.
 
 [!http://goo.gl/MK5c3r|width=100!|http://goo.gl/MK5c3r]
