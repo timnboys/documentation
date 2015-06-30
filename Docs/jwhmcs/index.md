@@ -39,9 +39,10 @@ STYLE END
  
 ---
 
-### J!WHMCS Integrator
+## J!WHMCS Integrator v2.6
 
-* **[]()**
+* **[Quick Start Guide](documentation/jwhmcs/quickstart.md)**
+* **[Installation Guide](documentation/jwhmcs/install_upgrade_guide)**
 
 ||Chapter||Details||
 |*[Quick Start Guide]*|New users should start here|
