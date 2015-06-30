@@ -15,7 +15,9 @@ After installing the component portion of the J!WHMCS Integrator, you will have 
 To access the component settings:
 
 1. Log into the back end of your Joomla! CMS.<br />
+{japopup type="image" content="http://goo.gl/0UztOB" width="400" height="300" title="Log Into Joomla"}
 <img src="http://goo.gl/0UztOB" width="100px" />
+{/japopup}
 2. Navigate in the backend of Joomla to Components > J!WHMCS Integrator.<br />
 <img src="http://goo.gl/ENV34G" width="100px" />
 3. Click on the 'Options' button on the top right side of the page.<br />
