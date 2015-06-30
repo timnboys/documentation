@@ -39,7 +39,7 @@ STYLE END
  
 ---
 
-# Accounting & Billing
+### Accounting & Billing
 
 *  **[Account Management](accounts_billing/accounts.md)**
 
