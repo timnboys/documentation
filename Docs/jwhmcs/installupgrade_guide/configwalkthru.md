@@ -15,15 +15,14 @@ After installing the component portion of the J!WHMCS Integrator, you will have 
 To access the component settings:
 
 1. Log into the back end of your Joomla! CMS.<br />
-{japopup type="image" content="media/gitdocs/jwhmcs/installupgrade_guide/assets/1-login.png" width="400" height="300" title="Log Into Joomla"}
-<img src="assets/1-login.png" width="100px" />
-{/japopup}
+{japopup type="image" content="media/gitdocs/jwhmcs/installupgrade_guide/assets/config-1.png" width="400" height="300" title="Log Into Joomla"}
+<img src="assets/config-1.png" width="100px" />{/japopup}
 2. Navigate in the backend of Joomla to Components > J!WHMCS Integrator.<br />
-{japopup type="image" content="media/gitdocs/jwhmcs/installupgrade_guide/assets/2-selectjwhmcs.png" width="666" height="375" title="Select J!WHMCS Integrator"}
-<img src="assets/2-selectjwhmcs.png" width="100px" />
-{/japopup}
+{japopup type="image" content="media/gitdocs/jwhmcs/installupgrade_guide/assets/config-2.png" width="666" height="375" title="Select J!WHMCS Integrator"}
+<img src="assets/config-2.png" width="100px" />{/japopup}
 3. Click on the 'Options' button on the top right side of the page.<br />
-<img src="http://goo.gl/QXEvMn" width="100px" />
+{japopup type="image" content="media/gitdocs/jwhmcs/installupgrade_guide/assets/config-3.png" width="1050" height="330" title="Select Options"}
+<img src="assets/config-3.png" width="100px" />{/japopup}
 
 Now you will be in the component settings
 
