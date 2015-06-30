@@ -7,7 +7,7 @@ breadcrumb: /jwhmcs:J!WHMCS Integrator/
 ## J!WHMCS Integrator v2.6
 
 * **[Quick Start Guide](jwhmcs/quickstart.md)**
-* **[Installation Guide](jwhmcs/install_upgrade_guide)**
+* **[Installation Guide](jwhmcs/installupgrade_guide)**
 
 ||Chapter||Details||
 |*[Quick Start Guide]*|New users should start here|

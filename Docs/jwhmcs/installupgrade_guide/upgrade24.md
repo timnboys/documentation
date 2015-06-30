@@ -1,6 +1,6 @@
 ---
 title: J!WHMCS Integrator - Upgrading from J!WHMCS Integrator 2.4
-breadcrumb: /jwhmcs:J!WHMCS Integrator/install_upgrade_guide:Install and Upgrade Guide/upgrade24:Upgrading from version 2.4/
+breadcrumb: /jwhmcs:J!WHMCS Integrator/installupgrade_guide:Install and Upgrade Guide/upgrade24:Upgrading from version 2.4/
 
 ---
 
