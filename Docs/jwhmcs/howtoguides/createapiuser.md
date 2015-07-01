@@ -26,12 +26,12 @@ Be sure you have an API User Role setup above and continue with these steps:
 2. Navigate to Setup > Staff Management > Administrator Users
 3. Click on Add New Administrator
 4. For the Administrator Role, select the API Administrators group you created earlier.
-5. Complete the rest of the form as follows (note that you may use any values, but for this tutorial and reference we will use these values):
-* First Name:  API
-* Last Name:  Admin (jwhmcs)
-* Email Address:  apiadmin@yourdomain.com
-* Username:  apiadmin
-* Password:  PASSWORD ** Note to use something else... ;)
+5. Complete the rest of the form as follows (note that you may use any values, but for this tutorial and reference we will use these values):<br />
+First Name:  API<br />
+Last Name:  Admin (jwhmcs)<br />
+Email Address:  apiadmin@yourdomain.com<br />
+Username:  apiadmin<br />
+Password:  PASSWORD ** Note to use something else... ;)<br />
 6. Click Save Changes
 
 You have now setup an API User Account in WHMCS
