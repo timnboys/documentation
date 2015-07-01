@@ -83,9 +83,9 @@ To access the settings for the J!WHMCS Integrator on the WHMCS side, follow thes
 
 The first step you want to take is to configure the API connection between WHMCS and Joomla.  In order for this to work you must first do the following in Joomla:
 
-# Ensure that the System - J!WHMCS plugin is activated
-# Set and know what the Token is in the J!WHMCS Extension Options
-# Be aware of any SSL or language setting requirements in Joomla.
+* Ensure that the System - J!WHMCS plugin is activated
+* Set and know what the Token is in the J!WHMCS Extension Options
+* Be aware of any SSL or language setting requirements in Joomla.
 
 With those requirements set you will need to go through this process:
 
