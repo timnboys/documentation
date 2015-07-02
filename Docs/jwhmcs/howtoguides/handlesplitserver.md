@@ -26,12 +26,12 @@ Upon viewing your source code, you will need to download all the media files tha
 
 Some of the most likely sources to find your media files include the following folders:
 
-* *Template Directory - *This is the folder called /templates that contains the themed template you are using on your Joomla! site.
-* *System Folders - *Some system folders such as /libraries or /system contain media that is used to render your Joomla! site.
-* *Media Folders - *This folder is a common media folder used by components and modules to store images, stylesheets and javascripts
-* *Images Folder - *Often designers will use the images folder to store images. Note that Joomla! also uses this folder for system content
-* *Modules Folder - *Some modules have stylesheets or javascript files that are used to render specific modules.
-* *Plugins Folder -* Some plugins have stylesheets or javascript files that are used to render specific content items
+* *Template Directory* - This is the folder called /templates that contains the themed template you are using on your Joomla! site.
+* *System Folders* - Some system folders such as /libraries or /system contain media that is used to render your Joomla! site.
+* *Media Folders* - This folder is a common media folder used by components and modules to store images, stylesheets and javascripts
+* *Images Folder* - Often designers will use the images folder to store images. Note that Joomla! also uses this folder for system content
+* *Modules Folder* - Some modules have stylesheets or javascript files that are used to render specific modules.
+* *Plugins Folder* - Some plugins have stylesheets or javascript files that are used to render specific content items
 * *Components folder* - Some components have stylesheets or javascript files that are used to render component pages.
 
 #### Download Media Files
