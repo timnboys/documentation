@@ -15,15 +15,19 @@ Please follow these steps to properly set the autoauth key in place.
 1. Open your WHMCS site in an FTP client such as Filezilla, WinSCP or FireFTP
 2. Locate the file called 'configuration.php' located in your WHMCS root directory.
 3. Edit the file and towards the end you will see the following code:
+<pre>
     $templates_compiledir = 'templates_c/';
     $mysql_charset = 'utf8';
     ?>
+</pre>
 
 4. Insert the following line into the bottom of the file so that it appears as such:
+<pre>
     $templates_compiledir = 'templates_c/';
     $mysql_charset = 'utf8';
     $autoauthkey = 'abcXYZ123';
     ?>
+</pre>
 <br />where the `abcXYZ123` value is what you want to be for your autoauth key.
 5. Save the file and upload it back to the server.
 
