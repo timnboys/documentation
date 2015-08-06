@@ -39,5 +39,6 @@ To form a minor upgrade from Joomla!:
 ### How to perform a Minor Upgrade - Manual Upgrade
 
 Another method for upgrading the system is to simply re-install the product.  This is done through the Joomla! Installation Manager in Joomla! as well as using FTP to upload files directly into WHMCS.  To perform this method of installation, simply follow these sections for uploading files [found here](jwhmcs/installupgrade_guide/newinstalls.md):
+
 * Upload J!WHMCS Integrator Addon Module for WHMCS
 * Install J!WHMCS Integrator Archive into Joomla!

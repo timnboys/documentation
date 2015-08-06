@@ -10,8 +10,7 @@ breadcrumb: /jwhmcs:J!WHMCS Integrator/installupgrade_guide:Install and Upgrade 
 * **[New Installs](jwhmcs/installupgrade_guide/newinstalls.md)**
 
 ### Upgrade Guide
-* **[Upgrading - Minor Upgrades](jwhmcs/installupgrade_guide/minor.md)**
-* **[Upgrading - Version 2.5](jwhmcs/installupgrade_guide/upgrade25.md)**
+* **[Upgrading - Version 2.5 and Minor Upgrades](jwhmcs/installupgrade_guide/minor.md)**
 * **[Upgrading - Version 2.4 or Earlier](jwhmcs/installupgrade_guide/upgrade24.md)**
 
 ### Configuration Guide
