@@ -4,8 +4,6 @@ breadcrumb: /jwhmcs:J!WHMCS Integrator/installupgrade_guide:Install and Upgrade 
 
 ---
 
-{toc}
-
 J!WHMCS Integrator version 2.6 is a radical departure from versions 2.4 or earlier, and as such, requires special consideration when upgrading an existing installation.
 
 ### Changes to Consider
@@ -40,16 +38,25 @@ Gone are the array of complex and confusing options - in it's place is a flatter
 
 To upgrade from any version of J!WHMCS Integrator prior to 2.5, you will need to perform the following tasks:
 
-1. Disable the J!WHMCS Integrator product in WHMCS
-1. 1. Version 2.4: This can be done by going into WHMCS and navigating to Setup > Addon Modules and clicking on the Deactivate button next to J!WHMCS Integrator.
-1. 2. Version 2.3:  Using an FTP client, log into your server and navigate to the WHMCS directory /includes/hooks and delete the two files with jwhmcs in their name.
-2. Uninstall the Joomla! portion of the product entirely.  Start first with the plugins (there are 4, sometimes 5 plugins), then uninstall the log in module and the component as well.
+#### Disable the J!WHMCS Integrator product in WHMCS
 
-* Ensure you have both the Authentication - Joomla and the User - Joomla plugins enabled before logging out! *
+1. Version 2.4: This can be done by going into WHMCS and navigating to Setup > Addon Modules and clicking on the Deactivate button next to J!WHMCS Integrator.
+2. Version 2.3:  Using an FTP client, log into your server and navigate to the WHMCS directory /includes/hooks and delete the two files with jwhmcs in their name.
 
-3. Using FTP, delete the WHMCS portion of the product.  To do this (files referenced are based in the WHMCS root folder):
-3. 1. Version 2.4:  Remove the jwhmcs.php and jconfig.php files in the root directory.  Then remove the jwhmcs api files located in WHMCS/includes/api.  Next remove the jwhmcs folder in WHMCS/modules/addons directory.
-3. 2. Version 2.3:  Remove the jwhmcs.php and jconfig.php files in the root directory.   Be sure you are using a regular template from WHMCS by going into WHMCS > Setup > General Settings and change your template from any jwhmcs-* templates to their corresponding WHMCS standard template.  Then remove the jwhmcs-classic, jwhmcs-portal and jwhmcs-default directories from the WHMCS/templates folder (unless you are using them or have customized them – this step simply cleans up after JWHMCS).
+#### Uninstall the Joomla! portion of the product entirely.
+
+Start first with the plugins (there are 4, sometimes 5 plugins), then uninstall the log in module and the component as well.
+
+<div class="alert alert-danger"><strong>Warning!</strong><br />
+	Ensure you have both the Authentication - Joomla and the User - Joomla plugins enabled before logging out!
+</div>
+
+#### Using FTP, delete the WHMCS portion of the product.
+
+To do this (files referenced are based in the WHMCS root folder):
+
+1. Version 2.4:  Remove the jwhmcs.php and jconfig.php files in the root directory.  Then remove the jwhmcs api files located in WHMCS/includes/api.  Next remove the jwhmcs folder in WHMCS/modules/addons directory.
+2. Version 2.3:  Remove the jwhmcs.php and jconfig.php files in the root directory.   Be sure you are using a regular template from WHMCS by going into WHMCS > Setup > General Settings and change your template from any jwhmcs-* templates to their corresponding WHMCS standard template.  Then remove the jwhmcs-classic, jwhmcs-portal and jwhmcs-default directories from the WHMCS/templates folder (unless you are using them or have customized them – this step simply cleans up after JWHMCS).
 
 At this point your site applications should be not integrated, and should be working independent of one another.
 
