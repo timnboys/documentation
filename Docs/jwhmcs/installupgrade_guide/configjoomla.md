@@ -4,9 +4,9 @@ breadcrumb: /jwhmcs:J!WHMCS Integrator/installupgrade_guide:Install and Upgrade 
 
 ---
 
-There are two locations for accessing settings for J!WHMCS Integrator, Joomla! and WHMCS.  This document concerns accessing the configuration values for the Joomla! portion of the installation.
+### Configuration In Depth:  Joomla!
 
-### Joomla
+There are two locations for accessing settings for J!WHMCS Integrator, Joomla! and WHMCS.  This document concerns accessing the configuration values for the Joomla! portion of the installation.
 
 * [Accessing Settings](#accessing-settings)
 * [General Tab](#general-tab)
