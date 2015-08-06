@@ -10,9 +10,12 @@ There are two locations for accessing settings for J!WHMCS Integrator, Joomla! a
 
 * [Accessing Settings](#accessing-settings)
 * [General Tab](#general-tab)
-* [User Bridging Tab](#user-bridging-tab)
-* [Language Mapping Tab](#language-mapping-tab)
-* [Visual Settings Tab](#visual-settings-tab)
+* [User Integration Tab](#user-integration-tab)
+* [Visual Integration Tab](#visual-integration-tab)
+* [Log In Settings Tab](#log-in-settings-tab)
+* [Language Map Tab](#language-map-tab)
+* [Page CSS Settings Tab](#page---css-settings-tab)
+* [Advanced Settings Tab](#advanced-settings-tab)
 
 ### Accessing Settings
 
@@ -167,7 +170,7 @@ If you use multi-language capabilities within Joomla, you can enable this to map
 
 Select the default language to use when coming from an unknown WHMCS language.
 
-### Page / CSS Settings Tab
+### Page - CSS Settings Tab
 
 The settings in the Page / CSS Settings Tab look similar to this: <br />
 {japopup type="image" content="media/gitdocs/jwhmcs/installupgrade_guide/assets/wconfig-css.png" width="890" height="516" title="WHMCS Configuration:  Page / CSS Settings Tab"}
