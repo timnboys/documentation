@@ -23,7 +23,7 @@ To perform a minor upgrade from WHMCS:
 1. Log into the administrative control panel of your WHMCS application
 2. Navigate to Addons > JWHMCS Integrator on the top menu
 3. Click on the Updates button in the J!WHMCS Integrator page.
-4. You should see a screen similar to this {japopup type="image" content="media/gitdocs/jwhmcs/howtoguides/assets/performupdate-01.png" width="1169" height="760" title="Perform Update in WHMCS"}<img src="assets/performupdate-01.png" width="100px" />{/japopup}
+4. You should see a screen similar to this: <br />{japopup type="image" content="media/gitdocs/jwhmcs/installupgrade_guide/assets/performupdate-01.png" width="1169" height="760" title="Perform Update in WHMCS"}<img src="assets/performupdate-01.png" width="100px" />{/japopup}
 5. If there are updates, the system will indicate in the button.
 6. To update, just click the button
 
@@ -33,7 +33,7 @@ To form a minor upgrade from Joomla!:
 
 1. Log into the administrator area of your Joomla! CMS
 2. Navigate to Components > J!WHMCS Integrator
-3. You will see a screen similar to this {japopup type="image" content="media/gitdocs/jwhmcs/howtoguides/assets/performupdate-02.png" width="1068" height="456" title="Perform Update in Joomla!"}<img src="assets/performupdate-02.png" width="100px" />{/japopup}
+3. You will see a screen similar to this: <br />{japopup type="image" content="media/gitdocs/jwhmcs/installupgrade_guide/assets/performupdate-02.png" width="1068" height="456" title="Perform Update in Joomla!"}<img src="assets/performupdate-02.png" width="100px" />{/japopup}
 4. If there are updates, the upgrade button will indicate so, and you can click on that button to perform upgrades from within Joomla.
 
 ### How to perform a Minor Upgrade - Manual Upgrade
