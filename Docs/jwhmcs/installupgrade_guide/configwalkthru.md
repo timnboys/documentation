@@ -45,9 +45,9 @@ This is important - you must set a token here.  You will need this for the WHMCS
 
 There are a number of steps to accomplish this, and they are outlined in the following guides.  Please follow them in order:
 
-1. [Create An API User in WHMCS]
-2. [Granting API Access to WHMCS]
-3. [API Connection Manager in Joomla]
+1. [Create An API User in WHMCS](jwhmcs/howtoguides/createapiuser.md)
+2. [Granting API Access to WHMCS](jwhmcs/howtoguides/grantapiaccess.md)
+3. [API Connection Manager in Joomla](jwhmcs/howtoguides/apicnxnmgrinjoomla.md)
 
 #### Create A Menu Item
 
