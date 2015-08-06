@@ -33,13 +33,13 @@ In addition to the above environmental requirements, Belong requires the use of 
 
 Due to the nature of the product, Belong is released under a number of different licenses.
 
-The WHMCS Addon Module, which is the core of Belong is made available under our [Commercial EULA|https://www.gohigheris.com/policies/product-policies].
+The WHMCS Addon Module, which is the core of Belong is made available under our [Commercial EULA](https://www.gohigheris.com/policies/product-policies).
 
 The Joomla! plugin is released under the GNU General Public License version 2.0.
 
 ### Dunamis Framework
 
-The Dunamis Framework is required to be installed and running on the WHMCS Application site prior to activation of the Belong addon module.  Dunamis is available freely for download from our web site [here|https://www.gohigheris.com/downloads/dunamis-framework].
+The Dunamis Framework is required to be installed and running on the WHMCS Application site prior to activation of the Belong addon module.  Dunamis is available freely for download from our web site [here](https://www.gohigheris.com/downloads/dunamis-framework).
 
 
 ### Installation
