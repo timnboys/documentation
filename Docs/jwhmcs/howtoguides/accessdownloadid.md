@@ -23,9 +23,8 @@ If you have your Download ID in place but your Support and Upgrade Pack is NOT c
 ### Accessing your Download ID
 
 To retrieve your Download ID:
-# Visit our web site at https://www.gohigheris.com
-# Click on the Login button on the top menu bar
-# Enter your log in details and press Log In
-# Once you are logged in, scroll down to the bottom of the page.  On the right column you will see a large orange "Download ID" button.  Click that button.
-# The popup that comes up contains your Download ID.  Copy that into your product settings and press save.
- 
+1. Visit our web site at https://www.gohigheris.com
+2. Click on the Login button on the top menu bar
+3. Enter your log in details and press Log In
+4. Once you are logged in, scroll down to the bottom of the page.  On the right column you will see a large orange "Download ID" button.  Click that button.
+5. The popup that comes up contains your Download ID.  Copy that into your product settings and press save.
