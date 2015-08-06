@@ -9,6 +9,10 @@ There are two locations for accessing settings for J!WHMCS Integrator, Joomla! a
 ### Joomla
 
 * [Accessing Settings](#accessing-settings)
+* [General Tab](#general-tab)
+* [User Bridging Tab](#user-bridging-tab)
+* [Language Mapping Tab](#language-mapping-tab)
+* [Visual Settings Tab](#visual-settings-tab)
 
 ### Accessing Settings
 
