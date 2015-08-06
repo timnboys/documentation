@@ -15,3 +15,4 @@ breadcrumb: /jwhmcs:J!WHMCS Integrator/installupgrade_guide:Install and Upgrade 
 
 ### Configuration Guide
 * **[Configuration Walk Through](jwhmcs/installupgrade_guide/configwalkthru.md)**
+* **[Configuration In Depth:  Joomla!](jwhmcs/installupgrade_guide/configjoomla.md)**
