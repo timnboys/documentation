@@ -16,14 +16,14 @@ Prior to using Belong for the first time, you will need to enter the license ass
 To enter your license:
 
 1. Locate your license for Belong.  If you don't have your license available, you can log into our site and locate it under ''My Products''.
-2. In the backend of WHMCS go to _Addons_ _ *Belong*_\\
-!https://lh3.googleusercontent.com/-V43p_47OCNA/UUN5JNjTJwI/AAAAAAAAAF0/8ai8nBBFqz0/s0/2013-03-15_15-40-13.png!
-3. Click on the _License_ link.\\
-!https://lh3.googleusercontent.com/-1Ioj9uIP9FM/UUN5ZWvewsI/AAAAAAAAAF8/rlyvCaJm8u0/s0/2013-03-15_15-41-18.png!
-4. Enter your license in the _License_ field and click _Save._\\
-!https://lh4.googleusercontent.com/-WfM3Z4ZKTFk/UUN4bCxI0SI/AAAAAAAAAFk/-K1kzoGCx4Q/s0/2013-03-15_15-37-09.png!
-5. Once you have saved it, you should see a successful save message along with your license in green.\\
-!https://lh3.googleusercontent.com/-2Ux9jpNXkO0/UUN4q9F0BxI/AAAAAAAAAFs/k7MzHruItWw/s0/2013-03-15_15-38-12.png!
+2. In the backend of WHMCS go to _Addons_ _ *Belong*_ {japopup type="image" content="media/gitdocs/belong/installupgrade_guide/assets/qs-license-01.png" width="1024" title="Addons > Belong"}
+<img src="assets/qs-license-01.png" width="100px" />{/japopup}
+3. Click on the _License_ link.{japopup type="image" content="media/gitdocs/belong/installupgrade_guide/assets/qs-license-02.png" width="1024" title="Belong Navigation Bar"}
+<img src="assets/qs-license-02.png" width="100px" />{/japopup}
+4. Enter your license in the _License_ field and click _Save._{japopup type="image" content="media/gitdocs/belong/installupgrade_guide/assets/qs-license-03.png" width="1024" title="Belong License Page"}
+<img src="assets/qs-license-03.png" width="100px" />{/japopup}
+5. Once you have saved it, you should see a successful save message along with your license in green.{japopup type="image" content="media/gitdocs/belong/installupgrade_guide/assets/qs-license-04.png" width="1024" title="Belong License Page Saved"}
+<img src="assets/qs-license-04.png" width="100px" />{/japopup}
 
 ### Product Configuration
 
