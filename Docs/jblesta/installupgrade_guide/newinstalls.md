@@ -15,8 +15,8 @@ The following are required to have on hand prior to installing J!Blesta
 * J!Blesta license key (accessed through your [Client Portal|https://client.gohigheris.com/clientarea.php] on our web site)
 * Latest release of Dunamis Framework (minimum version 1.3.0)
 * Latest release of J!Blesta consisting of the following archive files:
-** com_jblesta_v{x.y.z}.zip - This is the Joomla! archive for installation into the Joomla! platform.
-** jblesta_for_blesta_v{x.y.z}.zip - This is the Blesta archive containing the plugin for Blesta
+<ul><li>com_jblesta_v{x.y.z}.zip - This is the Joomla! archive for installation into the Joomla! platform.</li>
+<li>jblesta_for_blesta_v{x.y.z}.zip - This is the Blesta archive containing the plugin for Blesta</li></ul>
 
 #### Locate Your FTP Credentials
 
