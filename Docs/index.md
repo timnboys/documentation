@@ -49,7 +49,7 @@ Welcome to the Go Higher Documentation pages.  This is your single best source o
 
 *  **[![Integrator 3](assets/integrator3.png)<br/>Integrator 3](https://support.gohigheris.com/docs/display/INT3/Product+Documentation)**
 
-*  **[![Belong](assets/belong.png)<br/>Belong](https://support.gohigheris.com/docs/display/BEL2/Belong+Home)**
+*  **[![Belong](assets/belong.png)<br/>Belong](belong)**
 
 *  **[![J!Blesta](assets/jblesta.png)<br/>J!Blesta](jblesta)**
 
