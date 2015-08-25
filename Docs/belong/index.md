@@ -16,10 +16,10 @@ If you already have Belong installed, or want to configure it further, check thi
 
 - - -
 
-#### **[How To Guides](jwhmcs/howtoguides)**<br />
-Common tasks relating to using and working with J!WHMCS Integrator, WHMCS and Joomla can be found here.
+#### **[How To Guides](belong/howtoguides)**<br />
+Common tasks relating to using and working with Belong can be found here.
 
 - - -
 
-#### **[Troubleshooting](jwhmcs/troubleshooting)**<br />
+#### **[Troubleshooting](belong/troubleshooting)**<br />
 Encountering issues?  Check this section for troubleshooting techniques and common issue resolutions. 
