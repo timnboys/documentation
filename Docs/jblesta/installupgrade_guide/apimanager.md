@@ -78,7 +78,7 @@ As you enter data into the API Connection Manager in Joomla!, the system will ma
 		</div>
 	</div>
 	<div class="row">			
-		<div class="col-sm-3 center alert alert-danger">
+		<div class="col-sm-3 center alert alert-warning">
 			404 Not Found
 		</div>
 		<div class="col-sm-9">
@@ -93,4 +93,11 @@ As you enter data into the API Connection Manager in Joomla!, the system will ma
 			This is always a firewall issue.  If you enter a URL into the field and receive a zero response, then your server has either blacklisted itself or is not permitting access through the firewall for another reason.  Please consult your hosting provider for more information on troubleshooting this issue.
 		</div>
 	</div>
+</div>
+
+<div class="alert alert-warning">
+	<strong>Running PHP in CGI Mode?</strong><br />
+	Update your .htaccess file to pass an environment variable to Blesta so it can capture the basic authentication details as per the following snippet:<br />
+	<pre>RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]</pre>
+	For more information please visit <a href="http://docs.blesta.com/display/dev/API" target="_blank">Blesta API Documentation</a>
 </div>
