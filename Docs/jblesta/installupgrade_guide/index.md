@@ -9,11 +9,9 @@ breadcrumb: /jblesta:J!Blesta/installupgrade_guide:Install and Upgrade Guide
 * **[Quick Start Guide](jblesta/quickstart.md)**
 * **[New Installs](jblesta/installupgrade_guide/newinstalls.md)**
 
-<!--
+
 ### Upgrade Guide
-* **[Upgrading - Version 2.5 and Minor Upgrades](jwhmcs/installupgrade_guide/minor.md)**
-* **[Upgrading - Version 2.4 or Earlier](jwhmcs/installupgrade_guide/upgrade24.md)**
--->
+* **[Upgrading](jblesta/installupgrade_guide/minor.md)**
 
 ### Configuration Guide
 * **[Configuration Walk Through](jblesta/installupgrade_guide/configwalkthru.md)**
