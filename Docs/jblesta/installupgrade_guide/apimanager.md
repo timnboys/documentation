@@ -22,7 +22,7 @@ After the initial installation of the product, all the fields will be blank.  Yo
 
 <div class="container">
 	<div class="row">			
-		<div class="col-sm-3 center">
+		<div class="col-sm-3 center bg-info">
 			Blesta URL
 		</div>
 		<div class="col-sm-9">
@@ -30,7 +30,7 @@ After the initial installation of the product, all the fields will be blank.  Yo
 		</div>
 	</div>
 	<div class="row">			
-		<div class="col-sm-3 center">
+		<div class="col-sm-3 center bg-info">
 			API Username
 		</div>
 		<div class="col-sm-9">
@@ -38,7 +38,7 @@ After the initial installation of the product, all the fields will be blank.  Yo
 		</div>
 	</div>
 	<div class="row">			
-		<div class="col-sm-3 center">
+		<div class="col-sm-3 center bg-info">
 			API Key
 		</div>
 		<div class="col-sm-9">
@@ -52,8 +52,48 @@ After the initial installation of the product, all the fields will be blank.  Yo
 
 As you enter data into the API Connection Manager in Joomla!, the system will make a call to test the values out.  You will be notified at each step of the way the results of your data entry.  The most common responses are as follows:
 
-||Successfully Connected||This indicates that J!Blesta was able to communicate with Blesta as expected with the settings provided|
-||0 Received||This is always a firewall issue.  If you enter a URL into the field and receive a zero response, then your server has either blacklisted itself or is not permitting access through the firewall for another reason.  Please consult your hosting provider for more information on troubleshooting this issue.|
-||401 Denied||The API Username and API Key don't match up with your settings in Blesta.  Double check them and try again.|
-||403 Restricted||If this is encountered, you may have restrictions added to your .htaccess file in your Blesta installation folder.|
-||404 Not Found||Just as it suggests, the URL you entered isn't found - you may want to double check it|
+<div class="container">
+	<div class="row">			
+		<div class="col-sm-3 center alert alert-success">
+			Successfully Connected
+		</div>
+		<div class="col-sm-9">
+			This indicates that J!Blesta was able to communicate with Blesta as expected with the settings provided
+		</div>
+	</div>
+	<div class="row">			
+		<div class="col-sm-3 center alert alert-warning">
+			401 Denied
+		</div>
+		<div class="col-sm-9">
+			The API Username and API Key don't match up with your settings in Blesta.  Double check them and try again.
+			<div class="alert alert-warning"><strong>Running PHP in CGI Mode?</strong>Update your .htaccess file to pass an environment variable to Blesta so it can capture the basic authentication details as per the following snippet:<pre>RewriteEngine on
+...
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]</pre></div>
+		</div>
+	</div>
+	<div class="row">			
+		<div class="col-sm-3 center alert alert-warning">
+			403 Restricted
+		</div>
+		<div class="col-sm-9">
+			If this is encountered, you may have restrictions added to your .htaccess file in your Blesta installation folder.
+		</div>
+	</div>
+	<div class="row">			
+		<div class="col-sm-3 center alert alert-danger">
+			404 Not Found
+		</div>
+		<div class="col-sm-9">
+			Just as it suggests, the URL you entered isn't found - you may want to double check it
+		</div>
+	</div>
+	<div class="row">			
+		<div class="col-sm-3 center alert alert-danger">
+			0 Received
+		</div>
+		<div class="col-sm-9">
+			This is always a firewall issue.  If you enter a URL into the field and receive a zero response, then your server has either blacklisted itself or is not permitting access through the firewall for another reason.  Please consult your hosting provider for more information on troubleshooting this issue.
+		</div>
+	</div>
+</div>
