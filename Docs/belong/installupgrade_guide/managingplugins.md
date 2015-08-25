@@ -23,10 +23,10 @@ To add a new plugin to Belong:
 
 The Joomla! plugin requires that the system plugin be installed, enabled and the API Token set in order to function.  The configuration settings are as follows:
 
-# *Connection Name* - Enter a name to easily identify this connection when selecting in a drop down list.
-# *Connection Enabled* - Indicate if this connection should be active or not
-# *Joomla URL* - Enter the URL to the front end of your site. Do not include any filenames or language sef that may be added to your URL by Joomla. Ensure that you also include the proper scheme (http / https).
-# *API Token* - Enter the unique token you created in the System - Belong plugin that you installed into Joomla. This token must match exactly.
+* *Connection Name* - Enter a name to easily identify this connection when selecting in a drop down list.
+* *Connection Enabled* - Indicate if this connection should be active or not
+* *Joomla URL* - Enter the URL to the front end of your site. Do not include any filenames or language sef that may be added to your URL by Joomla. Ensure that you also include the proper scheme (http / https).
+* *API Token* - Enter the unique token you created in the System - Belong plugin that you installed into Joomla. This token must match exactly.
 
 
 #### Kayako Fusion
