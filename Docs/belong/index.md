@@ -15,7 +15,7 @@ First time users should start here to get started quickly using Belong.
 If you already have Belong installed, or want to configure it further, check this section for more information.
 
 - - -
-
+<!--
 #### **[How To Guides](belong/howtoguides)**<br />
 Common tasks relating to using and working with Belong can be found here.
 
@@ -23,3 +23,4 @@ Common tasks relating to using and working with Belong can be found here.
 
 #### **[Troubleshooting](belong/troubleshooting)**<br />
 Encountering issues?  Check this section for troubleshooting techniques and common issue resolutions. 
+-->
