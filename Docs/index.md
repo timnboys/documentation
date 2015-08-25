@@ -58,5 +58,3 @@ Welcome to the Go Higher Documentation pages.  This is your single best source o
 *  **[![WHMCS Themer](assets/themer.png)<br/>WHMCS Themer](https://support.gohigheris.com/docs/display/THEMER/WHMCS+Themer+Home)**
 
 *  **[![Accounts & Billing](assets/accountandbilling.png)<br/>Accounting & Billing](accounts_billing)**
-
-* HI THERE
