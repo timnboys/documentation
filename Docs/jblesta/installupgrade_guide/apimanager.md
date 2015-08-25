@@ -20,9 +20,33 @@ To access the API Connection Manager, follow these steps:
 
 After the initial installation of the product, all the fields will be blank.  You will want to fill out the form in it's entirety.
 
-||Blesta URL||This is the complete URL to the FRONT END of your Blesta installation.  Note that you should not include the API end point or point to the admin folder.|
-||API Username||This is a username for an account in Blesta that has API Access.  Please check [Create An API User in Blesta|Create An API User in Blesta] for more information.|
-||API Key||This is the key that is generated for the API user you entered above.|
+<div class="container">
+	<div class="row">			
+		<div class="col-sm-3 center">
+			Blesta URL
+		</div>
+		<div class="col-sm-9">
+			This is the complete URL to the FRONT END of your Blesta installation.  Note that you should not include the API end point or point to the admin folder.
+		</div>
+	</div>
+	<div class="row">			
+		<div class="col-sm-3 center">
+			API Username
+		</div>
+		<div class="col-sm-9">
+			This is a username for an account in Blesta that has API Access.  Please check [Create An API User in Blesta|Create An API User in Blesta] for more information.
+		</div>
+	</div>
+	<div class="row">			
+		<div class="col-sm-3 center">
+			API Key
+		</div>
+		<div class="col-sm-9">
+			This is the key that is generated for the API user you entered above.
+		</div>
+	</div>
+</div>
+
 
 ### API Responses
 
