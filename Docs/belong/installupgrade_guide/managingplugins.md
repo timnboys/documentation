@@ -33,44 +33,44 @@ The Joomla! plugin requires that the system plugin be installed, enabled and the
 
 The configuration settings are as follows:
 
-*Connection Name* - Enter a name to easily identify this connection when selecting in a drop down list.
-*Connection Enabled* - Indicate if this connection should be active or not
-*API URL* - Enter the URL to your API interface with Kayako Fusion. This can be found in the admin settings under API.
-*API Key* - Enter the API Key from your Kayako Fusion installation. This can be found in the admin settings under API.
-*API Secret* - Enter the API Secret from your Kayako Fusion installation. This can be found in the admin settings under API (note - this value is really long).
-*Default Group* - Select the default group to use in your rules. The default group is necessary because when a user is dropped from a higher group, they must be added back to the default group or Fusion will not work properly.
+* *Connection Name* - Enter a name to easily identify this connection when selecting in a drop down list.
+* *Connection Enabled* - Indicate if this connection should be active or not
+* *API URL* - Enter the URL to your API interface with Kayako Fusion. This can be found in the admin settings under API.
+* *API Key* - Enter the API Key from your Kayako Fusion installation. This can be found in the admin settings under API.
+* *API Secret* - Enter the API Secret from your Kayako Fusion installation. This can be found in the admin settings under API (note - this value is really long).
+* *Default Group* - Select the default group to use in your rules. The default group is necessary because when a user is dropped from a higher group, they must be added back to the default group or Fusion will not work properly.
 
 
 #### Mailchimp
 
 The configuration settings are as follows:
 
-*Connection Name* - Enter a name to easily identify this connection when selecting in a drop down list.
-*Connection Enabled* - Indicate if this connection should be active or not
-*API Key* - This is the api key from your account which can be found at [http://admin.mailchimp.com/account/api/|http://admin.mailchimp.com/account/api/]
-*Use SSL* - Do you want to use SSL across the API to Mailchimp (why not, right?)
+* *Connection Name* - Enter a name to easily identify this connection when selecting in a drop down list.
+* *Connection Enabled* - Indicate if this connection should be active or not
+* *API Key* - This is the api key from your account which can be found at [http://admin.mailchimp.com/account/api/|http://admin.mailchimp.com/account/api/]
+* *Use SSL* - Do you want to use SSL across the API to Mailchimp (why not, right?)
 
 
 #### vBulletin
 
 The configuration settings are as follows:
 
-*Connection Name* - Enter a name to easily identify this connection when selecting in a drop down list.
-*Connection Enabled* - Indicate if this connection should be active or not
-*Database Hostname* - Enter the database hostname for the vBulletin connection. Usually defaults to localhost.
-*Database Username* - Enter the username used to connect to the vBulletin database.
-*Database Password* - Enter the password used to connect to the vBulletin database.
-*Database Name* - Enter the name of the database found on the server.
-*Database Prefix* - Enter the prefix for the vBulletin database tables (leave blank for none).
+* *Connection Name* - Enter a name to easily identify this connection when selecting in a drop down list.
+* *Connection Enabled* - Indicate if this connection should be active or not
+* *Database Hostname* - Enter the database hostname for the vBulletin connection. Usually defaults to localhost.
+* *Database Username* - Enter the username used to connect to the vBulletin database.
+* *Database Password* - Enter the password used to connect to the vBulletin database.
+* *Database Name* - Enter the name of the database found on the server.
+* *Database Prefix* - Enter the prefix for the vBulletin database tables (leave blank for none).
 
 
 #### WHMCS
 
 The configuration settings are as follows:
 
-*Connection Name* - Enter a name to easily identify this connection when selecting in a drop down list.
-*Connection Enabled* - Indicate if this connection should be active or not
-*Admin User* - Select the admin user to be used to indicate who is making updates to clients. This option would permit you to track changes made by the selected admin user.
+* *Connection Name* - Enter a name to easily identify this connection when selecting in a drop down list.
+* *Connection Enabled* - Indicate if this connection should be active or not
+* *Admin User* - Select the admin user to be used to indicate who is making updates to clients. This option would permit you to track changes made by the selected admin user.
 
 
 ### Managing Plugins

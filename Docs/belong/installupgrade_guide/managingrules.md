@@ -21,9 +21,9 @@ To add a new product to Belong:
 {japopup type="image" content="media/gitdocs/belong/installupgrade_guide/assets/rules-03.png" width="1024" title="Belong Manage Rule Screen"}
 <img src="assets/rules-03.png" width="100px" />{/japopup}
  
-*Rule Name* - Enter a friendly name to refer to this rule within Belong.
-*Product Rules* - The rules in the dropdown fields and their associated actions apply only to a product that is matched up to this rule.
-*Addon Rules* - The rules in the dropdown fields and their associated actions apply only to a product that also has been configured with a product addon.
+* *Rule Name* - Enter a friendly name to refer to this rule within Belong.
+* *Product Rules* - The rules in the dropdown fields and their associated actions apply only to a product that is matched up to this rule.
+* *Addon Rules* - The rules in the dropdown fields and their associated actions apply only to a product that also has been configured with a product addon.
 
 ### Understanding Actionsets
 
@@ -38,9 +38,9 @@ The best way to configure actionsets is to use the pattern shown in the image be
 
 Use the pattern against ONE permission group in whatever plugin you are applying against.  For example, let say you have a permission group in Joomla called ''Forum Users'', you would select that Joomla permission group in each of the drop down fields for this rule, and select the green and red buttons for the appropriate actions.
 
-*Green Check* - This setting tells Belong to add a user to the associated permission group.
-*Black Dash* - This setting tells Belong to ignore the action.  This is best used for Pending and Cancelled Products generally.
-*Red "X"* - This setting tells Belong to drop a user from the associated permission group.
+* *Green Check* - This setting tells Belong to add a user to the associated permission group.
+* *Black Dash* - This setting tells Belong to ignore the action.  This is best used for Pending and Cancelled Products generally.
+* *Red "X"* - This setting tells Belong to drop a user from the associated permission group.
 
 Actionsets are gathered together for each user when the permissions are updated, and performed in a specific order:
 
@@ -55,11 +55,11 @@ Should a user be dropped and also added to the same permission group due to the 
 
 Each plugin handles rules differently.
 
-*Joomla* - Joomla permits a user to belong to multiple groups at the same time
-*Kayako Fusion* - Fusion only permits a user to belong on one group at a time.  As a result you will have to be sure to select the ''Default Group'' in the plugin configuration to ensure if a user is dropped from a group they at least belong to the default group.
-*Mailchimp* - The Mailchimp plugin works with list segments and so a user may belong to multiple lists and segments simultaneously.
-*vBulletin* - The vBulletin plugin permits users to belong to multiple groups simultaneously.
-*WHMCS* - The WHMCS application only permits a user to belong to one group at a time.  If a user is going to be dropped from a group, they will be moved to the ''- No Group -'' group.
+* *Joomla* - Joomla permits a user to belong to multiple groups at the same time
+* *Kayako Fusion* - Fusion only permits a user to belong on one group at a time.  As a result you will have to be sure to select the ''Default Group'' in the plugin configuration to ensure if a user is dropped from a group they at least belong to the default group.
+* *Mailchimp* - The Mailchimp plugin works with list segments and so a user may belong to multiple lists and segments simultaneously.
+* *vBulletin* - The vBulletin plugin permits users to belong to multiple groups simultaneously.
+* *WHMCS* - The WHMCS application only permits a user to belong to one group at a time.  If a user is going to be dropped from a group, they will be moved to the ''- No Group -'' group.
 
 
 ### Managing Rules

@@ -24,9 +24,9 @@ To add a new ruleset to Belong,
 
 The configuration values are as follows:
 
-*Ruleset Name* - Enter a name to call this ruleset. This name should make it easy for you to identify when listed or reported to you.
-*Product* - Select the product from your previously defined product list for this ruleset to apply to.
-*Select Rules* - This is two lists, one yellow, one green, that indicate which rules to apply.  Rules can be dragged and dropped between the two lists.  The green list indicates you want to apply the rule when the product is found, rules left in the yellow list will not be applied.
+* *Ruleset Name* - Enter a name to call this ruleset. This name should make it easy for you to identify when listed or reported to you.
+* *Product* - Select the product from your previously defined product list for this ruleset to apply to.
+* *Select Rules* - This is two lists, one yellow, one green, that indicate which rules to apply.  Rules can be dragged and dropped between the two lists.  The green list indicates you want to apply the rule when the product is found, rules left in the yellow list will not be applied.
 
 
 ### Managing Rulesets

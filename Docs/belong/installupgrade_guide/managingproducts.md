@@ -23,10 +23,9 @@ To add a new product to Belong,
 
 The configuration values are as follows:
 
-*Friendly Name* - Enter a friendly name to use for this product. This name should make it easy for you to identify when listed or reported to you.
-*Product* - Select the product from the dropdown to associate with this new product name.
-*Product Addon* - (optional) Select a product addon to associate with this product. If you select an addon here, then the product rule will apply against both the product and the addon and both must be valid for the rule to match.\\
-{japopup type="image" content="media/gitdocs/belong/installupgrade_guide/assets/mprod-03.png" width="1024" title="Belong Add New Product Screen"}
+* *Friendly Name* - Enter a friendly name to use for this product. This name should make it easy for you to identify when listed or reported to you.
+* *Product* - Select the product from the dropdown to associate with this new product name.
+* *Product Addon* - (optional) Select a product addon to associate with this product. If you select an addon here, then the product rule will apply against both the product and the addon and both must be valid for the rule to match.<br />{japopup type="image" content="media/gitdocs/belong/installupgrade_guide/assets/mprod-03.png" width="1024" title="Belong Add New Product Screen"}
 <img src="assets/mprod-03.png" width="100px" />{/japopup}
 
 
