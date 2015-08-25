@@ -46,9 +46,7 @@ Please follow these simple steps in order to install the product into your Jooml
 1. Locate your license key and download the latest release of the product from our web site.  For more information on this, please visit *Locating My License*.
 2. Download the latest release of the Dunamis Framework (version 1.3 or higher).
 3. Extract the Dunamis archive for Blesta to your local machine.
-4. Download the latest release of J!Blesta.  You will need the following files:
-# ''com_jblesta_v{x.y.z}.zip'' - This is the Joomla portion of the installation
-# ''jblesta_for_blesta_v{x.y.z}.zip'' - This is the Blesta portion of the installation
+4. Download the latest release of J!Blesta.  You will need the following files:<br/>''com_jblesta_v{x.y.z}.zip'' - This is the Joomla portion of the installation<br />''jblesta_for_blesta_v{x.y.z}.zip'' - This is the Blesta portion of the installation
 5. Extract the Blesta portion of the archive onto your local machine.
 6. Upload both the extracted Dunamis for Blesta plugin and the extracted J!Blesta for Blesta plugin to your Blesta application.
 7. Log into your Blesta application and go to Settings, Plugins and select Available beneath the Plugins title on the left side.
