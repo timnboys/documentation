@@ -15,7 +15,7 @@ breadcrumb: /belong:Belong/installupgrade_guide:Install and Upgrade Guide
 
 ### Configuration Guide
 * **[General Configuration Walk Through](belong/installupgrade_guide/configwalkthru.md)**
-* **[Managing Plugins](belong/installupgrade_guide/manageplugins.md)**
-* **[Managing Products](belong/installupgrade_guide/manageproducts.md)**
-* **[Managing Rules](belong/installupgrade_guide/managerules.md)**
-* **[Managing Rulesets](belong/installupgrade_guide/managerulesets.md)**
+* **[Managing Plugins](belong/installupgrade_guide/managingplugins.md)**
+* **[Managing Products](belong/installupgrade_guide/managingproducts.md)**
+* **[Managing Rules](belong/installupgrade_guide/managingrules.md)**
+* **[Managing Rulesets](belong/installupgrade_guide/managingrulesets.md)**
