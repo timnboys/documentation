@@ -69,10 +69,9 @@ As you enter data into the API Connection Manager in Joomla!, the system will ma
 			The API Username and API Key don't match up with your settings in Blesta.  Double check them and try again.
 			<div class="alert alert-warning">
 				<strong>Running PHP in CGI Mode?</strong><br />
-				Update your .htaccess file to pass an environment variable to Blesta so it can capture the basic authentication details as per the following snippet:
-				<blockquote>RewriteEngine on
-...
-RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]</blockquote>
+				Update your .htaccess file to pass an environment variable to Blesta so it can capture the basic authentication details as per the following snippet:<br />
+				<pre>RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]</pre><br />
+				For more information please visit [Blesta API Documentation](http://docs.blesta.com/display/dev/API)
 			</div>
 		</div>
 	</div>
