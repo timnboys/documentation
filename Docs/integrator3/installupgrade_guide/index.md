@@ -6,7 +6,7 @@ breadcrumb: /integrator3:Integrator 3/installupgrade_guide:Install and Upgrade G
 
 ## Integrator 3: <small>Install and Upgrade Guide</small>
 
-### Installation Guides
+### Installation Guide
 
 * **[Quick Start Guide](integrator3/quickstart.md)**
 * **[New Installs](integrator3/installupgrade_guide/newinstalls.md)**
