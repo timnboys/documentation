@@ -4,6 +4,8 @@ breadcrumb: /integrator3:Integrator 3/quickstart:Quick Start Guide
  
 ---
 
+## Quick start Guide
+
 ### What Integrator 3 Does
 
 Integrator 3 is a robust application that allows you to bridge not just the user accounts between multiple systems but also bridge the visual appearance as well.  Integrator 3 permits any number of applications to be connected subject to licensing, so for example you may want a Joomla site and a Wordpress site to share the same WHMCS installation.  With Integrator 3, all three can be tied together so when a user logs into one, they are logged into all three.  When a user visits WHMCS from Joomla, they will see Joomla wrapping it, but if they visit from Wordpress, they will see Wordpress wrapping it.
