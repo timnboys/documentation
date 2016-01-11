@@ -14,19 +14,19 @@ Integrator 3 is a robust application that allows you to bridge not just the user
 
 There are some key concepts to keep in mind in order to understand exactly what the product does.
 
-#### Content Management System (CMS)
+##### Content Management System (CMS)
 
 A CMS stands for Content Management System.  Integrator 3 currently works with two CMS products: Joomla! and Wordpress.
 
-#### Application
+##### Application
 
 An application is a program that is run that is wrapped.  For example, WHMCS is considered an application because it would be wrapped by a content management system through Integrator 3.  Currently Integrator 3, WHMCS and Kayako Fusion are considered applications and are supported.
 
-#### Visual Integration
+##### Visual Integration
 
 The visual integration refers to wrapping your content management system (either Joomla! or Wordpress) around your application (either WHMCS or Kayako Fusion).  This is accomplished by utilizing the built in hook systems within the applications to make requests of Integrator 3 to retrieve the content management site for rendering around the application.  Regular expression matches are performed upon the source from the content management system.  These regular expressions do everything from changing the href links to changing image locations.
 
-#### User Integration
+##### User Integration
 
 The user integration refers to bridging of user accounts between various systems.  Like visual integration, the user integration is accomplished by utilizing the built in hook system within the applications and well as plugins within the content management system.
 
@@ -69,6 +69,6 @@ The goal of Integrator 3 is to make managing your web site esaier and for the us
 You must have a current Support and Upgrade pack for the product you require support for in order to obtain the latest upgrades and premium support services from Go Higher IS.
 </div>
 
-* [Documentation](https://www.gohigheris.com/documentation/jwhmcs) 
+* [Documentation](https://www.gohigheris.com/documentation/integrator3) 
 * [Support Forum](https://www.gohigheris.com/forum/index)
 * [Support Ticket](https://support.gohigheris.com/)
