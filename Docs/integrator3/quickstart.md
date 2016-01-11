@@ -8,18 +8,23 @@ breadcrumb: /integrator3:Integrator 3/quickstart:Quick Start Guide
 
 The following software requirements must be met for Integrator 3 to operate:
 
+##### Core Application #####
 * PHP 5.3+
 * MySQL 5+
-* Joomla Requirements (if used)
-** Joomla! 2.5 / 3.4
-** Dunamis Framework 1.4+
-* WHCMS Requirements (if used)
-** WHMCS 5.3+
-** Dunamis Framework 1.4+
-* Wordpress Requirements (if used)
-** Wordpress v 4+
-* Kayako Requirements (if used)
-** Kayako Fusion v4.50+
+
+##### Joomla Requirements (if used) #####
+* Joomla! 2.5 / 3.4
+* Dunamis Framework 1.4+
+
+##### WHCMS Requirements (if used) #####
+* WHMCS 5.3+
+* Dunamis Framework 1.4+
+
+##### Wordpress Requirements (if used) #####
+* Wordpress v 4+
+
+##### Kayako Requirements (if used) #####
+* Kayako Fusion v4.50+
 
 Older versions of Joomla!, Wordpress, WHMCS or Kayako may work, however they cannot be supported and should be upgraded to ensure proper functionality (as well as security and other considerations).
 
