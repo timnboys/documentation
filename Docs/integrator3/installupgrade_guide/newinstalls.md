@@ -9,6 +9,7 @@ STYLE START
 }
 
 STYLE END
+
 ---
 
 ## Integrator 3: <small>New Installs</small>
