@@ -64,8 +64,7 @@ Next is a check of your system to ensure you have adequate PHP, MySQL and extens
 6. {japopup type="image" content="media/gitdocs/integrator3/installupgrade_guide/assets/install-coreapp-4.png" width="1247" height="1032" title="Permissions Check"}<img src="assets/install-coreapp-4.png" width="100px" align="right" />{/japopup}
 Now the installer will check some file permissions to ensure it can write to folders and files that are needed.  Again, for most this will check out, click Proceed to Install to continue.
 7. {japopup type="image" content="media/gitdocs/integrator3/installupgrade_guide/assets/install-coreapp-5.png" width="1247" height="1032" title="Installation Questions"}<img src="assets/install-coreapp-5.png" width="100px" align="right" />{/japopup}
-The final step before installation is to gather your admin information as well as your database name.  The screen looks similar to the screen on the right.
-<div class="alert alert-info"><strong>Database Name</strong><br />
+The final step before installation is to gather your admin information as well as your database name.  The screen looks similar to the screen on the right.<div class="alert alert-info"><strong>Database Name</strong><br />
 Depending on your server configuration, you may or may not be able to create a new database.  If not, you can select a database you are already using, just be sure to use a unique prefix in front to avoid conflicts with other applications using the database.
 </div>
 8. Complete!  You should land on the log in screen for the admin area of Integrator 3, which looks similar to this screen.<br/>
