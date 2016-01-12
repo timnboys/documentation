@@ -3,13 +3,17 @@ title: Integrator 3 - Install and Upgrade Guide
 breadcrumb: /integrator3:Integrator 3/installupgrade_guide:Install and Upgrade Guide
  
 ---
-HI
+
 ## Integrator 3: <small>Install and Upgrade Guide</small>
 
 ### Installation Guide
 
 * **[Quick Start Guide](integrator3/quickstart.md)**
 * **[New Installs](integrator3/installupgrade_guide/newinstalls.md)**
+* **[Kayako Fusion](integrator3/installupgrade_guide/newfusion.md)**
+* **[Joomla! 3.x](integrator3/installupgrade_guide/newjoomla3.md)**
+* **[WHMCS v6](integrator3/installupgrade_guide/newwhmcs6.md)**
+* **[Wordpress 4](integrator3/installupgrade_guide/newwordpress4.md)**
 
 ### Upgrade Guide
 * **[Upgrading - Minor Upgrades](integrator3/installupgrade_guide/minor.md)**
