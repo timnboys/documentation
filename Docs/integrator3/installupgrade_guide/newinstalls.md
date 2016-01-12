@@ -43,7 +43,8 @@ Now you are ready to install Integrator 3.
 
 1. Navigate into the Integrator folder you extracted and extract the archive contained within it.  These are the core files.
 2. FTP the core files to your server in the Folder Location you determined above.
-3. In a browser, navigate to the installation folder.  For example, if you uploaded the files to a subfolder called `accounts`, navigate to http://yourdomain.com/accounts.  You should be shown a screen similar to the one below:<br />{japopup type="image" content="media/gitdocs/integrator3/installupgrade_guide/assets/install-coreapp-1.png" width="1247" height="1032" title="Terms of Service"}<img src="assets/install-coreapp-1.png" width="100px" />{/japopup}
+3. {japopup type="image" content="media/gitdocs/integrator3/installupgrade_guide/assets/install-coreapp-1.png" width="1247" height="1032" title="Terms of Service"}<img src="assets/install-coreapp-1.png" width="100px" align="right" />{/japopup}
+In a browser, navigate to the installation folder.  For example, if you uploaded the files to a subfolder called `accounts`, navigate to http://yourdomain.com/accounts.  You should be shown a screen similar to the one below:
 4.  
 
 
