@@ -8,6 +8,10 @@ STYLE START
 	margin-bottom: 15px;
 }
 
+\#gitdox ol > li img {
+	margin-bottom: 10px;
+}
+
 STYLE END
 
 ---
