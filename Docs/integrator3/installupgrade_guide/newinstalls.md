@@ -20,10 +20,25 @@ Before proceeding with any portion of the installation of Integrator 3, please b
 The core application is what you will be working with for the rest of this page.
 
 For instructions on installing the individual connectors, please see the following:
+
 * [Kayako Fusion](integrator3/installupgrade_guide/newfusion.md)
 * [Joomla! 3.x](integrator3/installupgrade_guide/newjoomla3.md)
 * [WHMCS v6](integrator3/installupgrade_guide/newwhmcs6.md)
 * [Wordpress 4](integrator3/installupgrade_guide/newwordpress4.md)
+
+
+### Gather Requirements
+
+To complete the installation of the core application, you will need to have the following information:
+
+* FTP Credentials - you will need to upload files to your server
+* Database Connection - you will need to have either a clean database or an existing database with a username and password to access it.
+* Integrator 3 License - you should have been emailed a copy of your Integrator 3 license, if not you can log into our site and access it there.
+* Folder Location - you will want to install the core application into a folder that is friendly for your visitors as they may see the folder in the URL when they log in or when they register.
+
+<div class="alert alert-warning"><strong>Recommended Folder Name</strong><br />
+We recommend a folder name of `accounts` or `my` or something generic to use.  We do not recommend using `integrator` as your installation folder, particularly if you are installing Integrator 3 as a subfolder of a Joomla! installation - this will cause problems when you install the Joomla! component.
+</div>
 
 
 The following are required to have on hand prior to installing J!WHMCS Integrator
