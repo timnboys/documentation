@@ -10,12 +10,12 @@ Before proceeding with any portion of the installation of Integrator 3, please b
 
 ### Download Integrator 3
 
-#  Log into our web site using your account credentials.  You may use either your email address and password or your username and password.
-#  Navigate to the *Downloads* link on the main menu and select the latest release of Integrator 3 for download.
-#  Select the file called *Complete Integrator 3 Archive* and save the file to your local computer.
-#  Navigate to the folder the archive was saved into and extract the contents of that folder into a convenient location.
-#  Wherever you extract the archive you should see five folders: Fusion, Integrator, Joomla, WHMCS and Wordpress
-#  Navigate into the Integrator folder you just extracted.  You will see another archive - extract that file - this is the core application.
+1.  Log into our web site using your account credentials.  You may use either your email address and password or your username and password.
+2.  Navigate to the *Downloads* link on the main menu and select the latest release of Integrator 3 for download.
+3.  Select the file called *Complete Integrator 3 Archive* and save the file to your local computer.
+4.  Navigate to the folder the archive was saved into and extract the contents of that folder into a convenient location.
+5.  Wherever you extract the archive you should see five folders: Fusion, Integrator, Joomla, WHMCS and Wordpress
+6.  Navigate into the Integrator folder you just extracted.  You will see another archive - extract that file - this is the core application.
 
 The core application is what you will be working with for the rest of this page.
 
