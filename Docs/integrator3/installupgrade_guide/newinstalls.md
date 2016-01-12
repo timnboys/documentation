@@ -1,7 +1,14 @@
 ---
 title: Integrator 3 - New Installs
 breadcrumb: /integrator3:Integrator 3/installupgrade_guide:Install and Upgrade Guide/newinstalls:New Installs
- 
+
+STYLE START
+\#gitdox ol > li {
+	clear: both;
+	margin-bottom: 15px;
+}
+
+STYLE END
 ---
 
 ## Integrator 3: <small>New Installs</small>
