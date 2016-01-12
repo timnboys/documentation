@@ -12,10 +12,10 @@ breadcrumb: /jwhmcs:J!WHMCS Integrator/howtoguides:How To Guides
 
 ### Configuration and Setup
 
-* **[Accessing Your Download ID](jwhmcs/howtoguides/accessdownloadid.md)**
+* **[Accessing Your Download ID](common/accessdownloadid.md)**
 * **[Add or Change Your J!WHMCS Integrator License](jwhmcs/howtoguides/addchangelicense.md)**
-* **[Creating An API User in WHMCS](jwhmcs/howtoguides/createapiuser.md)**
-* **[Granting API Access in WHMCS](jwhmcs/howtoguides/grantapiaccess.md)**
+* **[Creating An API User in WHMCS](common/createapiuser.md)**
+* **[Granting API Access in WHMCS](common/grantapiaccess.md)**
 * **[Setup the Shared API Token](jwhmcs/howtoguides/setupsharedapitoken.md)**
 
 

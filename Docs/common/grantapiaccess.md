@@ -1,6 +1,6 @@
 ---
-title: J!WHMCS Integrator - How To Guide: Granting API Access to WHMCS 
-breadcrumb: /jwhmcs:J!WHMCS Integrator/howtoguides:How To Guides/grantapiaccess:Granting API Access to WHMCS/
+title: Common Tasks: Granting API Access to WHMCS 
+breadcrumb: /common:Common Tasks/grantapiaccess:Granting API Access to WHMCS/
  
 ---
 

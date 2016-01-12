@@ -1,6 +1,6 @@
 ---
-title: J!WHMCS Integrator - How To Guide: Creating An API User in WHMCS
-breadcrumb: /jwhmcs:J!WHMCS Integrator/howtoguides:How To Guides/createapiuser:Creating An API User in WHMCS/
+title: Common Tasks: Creating An API User in WHMCS
+breadcrumb: /common:Common Tasks/createapiuser:Creating An API User in WHMCS/
  
 ---
 
