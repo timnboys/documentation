@@ -51,20 +51,19 @@ Now you are ready to install Integrator 3.
 
 1. Navigate into the Integrator folder you extracted and extract the archive contained within it.  These are the core files.
 2. FTP the core files to your server in the Folder Location you determined above.
-3. In a browser, navigate to the installation folder.  For example, if you uploaded the files to a subfolder called `accounts`, navigate to http://yourdomain.com/accounts.  You should be shown a screen similar to the one to the right.  Once you arive at that screen, accept the Terms of Service to proceed.
+3. In a browser, navigate to the installation folder.  For example, if you uploaded the files to a subfolder called `accounts`, navigate to http://yourdomain.com/accounts.  You should be shown a screen similar to the one to the right.  Once you arive at that screen, accept the Terms of Service to proceed.<br/>
 {japopup type="image" content="media/gitdocs/integrator3/installupgrade_guide/assets/install-coreapp-1.png" width="1247" height="1032" title="Terms of Service"}<img src="assets/install-coreapp-1.png" width="100px" align="center" />{/japopup}
-4. The next step is the database configuration.  Enter the credentials for your database, as you do the system will check the credentials on the fly to let you know if you can proceed or not.  If it checks out, press the Proceed to Requirements Check.
+4. The next step is the database configuration.  Enter the credentials for your database, as you do the system will check the credentials on the fly to let you know if you can proceed or not.  If it checks out, press the Proceed to Requirements Check.<br/>
 {japopup type="image" content="media/gitdocs/integrator3/installupgrade_guide/assets/install-coreapp-2.png" width="1247" height="1032" title="Database Credentials"}<img src="assets/install-coreapp-2.png" width="100px" align="center" />{/japopup}
-5. Next is a check of your system to ensure you have adequate PHP, MySQL and extensions installed.  For most this will all be okay, simply click the Proceed to Permissions Check to continue.
+5. Next is a check of your system to ensure you have adequate PHP, MySQL and extensions installed.  For most this will all be okay, simply click the Proceed to Permissions Check to continue.<br/>
 {japopup type="image" content="media/gitdocs/integrator3/installupgrade_guide/assets/install-coreapp-3.png" width="1247" height="1032" title="Requirements Check"}<img src="assets/install-coreapp-3.png" width="100px" align="center" />{/japopup}
-6. Now the installer will check some file permissions to ensure it can write to folders and files that are needed.  Again, for most this will check out, click Proceed to Install to continue.
+6. Now the installer will check some file permissions to ensure it can write to folders and files that are needed.  Again, for most this will check out, click Proceed to Install to continue.<br/>
 {japopup type="image" content="media/gitdocs/integrator3/installupgrade_guide/assets/install-coreapp-4.png" width="1247" height="1032" title="Permissions Check"}<img src="assets/install-coreapp-4.png" width="100px" align="center" />{/japopup}
-7. The final step before installation is to gather your admin information as well as your database name.  The screen looks similar to the screen below.
-{japopup type="image" content="media/gitdocs/integrator3/installupgrade_guide/assets/install-coreapp-5.png" width="1247" height="1032" title="Installation Questions"}<img src="assets/install-coreapp-5.png" width="100px" align="center" />{/japopup}
-<div class="alert alert-info"><strong>Database Name</strong><br />
+7. The final step before installation is to gather your admin information as well as your database name.  The screen looks similar to the screen below.<br/>
+{japopup type="image" content="media/gitdocs/integrator3/installupgrade_guide/assets/install-coreapp-5.png" width="1247" height="1032" title="Installation Questions"}<img src="assets/install-coreapp-5.png" width="100px" align="center" />{/japopup}<div class="alert alert-info"><strong>Database Name</strong><br />
 Depending on your server configuration, you may or may not be able to create a new database.  If not, you can select a database you are already using, just be sure to use a unique prefix in front to avoid conflicts with other applications using the database.
 </div>
-8. Complete!  You should land on the log in screen for the admin area of Integrator 3, which looks similar to this screen.
+8. Complete!  You should land on the log in screen for the admin area of Integrator 3, which looks similar to this screen.<br/>
 {japopup type="image" content="media/gitdocs/integrator3/installupgrade_guide/assets/install-coreapp-6.png" width="462" height="360" title="Install Complete"}<img src="assets/install-coreapp-6.png" width="100px" align="center" />{/japopup}
 
 
