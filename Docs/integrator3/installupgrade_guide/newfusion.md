@@ -94,12 +94,11 @@ As of Kayako Fusion v4.50, the __modules folder was renamed to __apps.  if you a
 1. Log into your Kayako Fusion administration control panel.
 2. Navigate to Options > Settings then click on Integrator.
 3. Fill in the fields below and press 'Update' to connect your Kayako Fusion application to Integrator 3.
-
-**Integrator URL** - This should be the fully qualified domain name to your Integrator 3 application.
-**Integrator API Username** - This is the I3 API username you gathered earlier.
-**Integrator API Password** - This is the I3 API password that you gathered earlier.
-**API Secret Key** - This is the API Key that you copied down out of Integrator 3 in the section entitled 'Create the Connection in Integrator 3'.
-**Integrator Connection ID** - This is the Connection ID you copied out of Integrator 3 in the section entitled 'Create the Connection in Integrator 3'.
+  * **Integrator URL** - This should be the fully qualified domain name to your Integrator 3 application.
+  * **Integrator API Username** - This is the I3 API username you gathered earlier.
+  * **Integrator API Password** - This is the I3 API password that you gathered earlier.
+  * **API Secret Key** - This is the API Key that you copied down out of Integrator 3 in the section entitled 'Create the Connection in Integrator 3'.
+  * **Integrator Connection ID** - This is the Connection ID you copied out of Integrator 3 in the section entitled 'Create the Connection in Integrator 3'.
 
 ### Kayako Fusion Core Modifications
 
