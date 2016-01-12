@@ -107,6 +107,10 @@ Now you will need to edit some core Kayako Fusion files.  We try to check line n
 
 * **[Kayako Fusion 4.30](integrator3/fusionfilechanges/430.md)**
 * **[Kayako Fusion 4.40](integrator3/fusionfilechanges/440.md)**
+* **[Kayako Fusion 4.50](integrator3/fusionfilechanges/450.md)**
+* **[Kayako Fusion 4.52](integrator3/fusionfilechanges/452.md)**
+* **[Kayako Fusion 4.55](integrator3/fusionfilechanges/455.md)**
+* **[Kayako Fusion 4.61](integrator3/fusionfilechanges/461.md)**
 
 
 ### Next Steps
