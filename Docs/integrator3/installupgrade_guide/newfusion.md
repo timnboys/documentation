@@ -39,6 +39,7 @@ To complete the installation of the Kayako Fusion plugin, you will need to have 
 
 * **FTP Credentials** - you will need to upload files to your server
 * **Integrator 3 Access Details** - you will need an administrator account in Integrator 3 that has API access to the core application.  To find out about setting this up, please see [Creating an API Admin in Integrator 3](integrator3/howtoguides/createi3apiadmin.md).
+* **Kayako Fusion Administration Credentials** - you will need to access the backend of Kayako Fusion to install the Integrator 3 for Kayako Fusion.
 
 ### Installation Procedure
 
