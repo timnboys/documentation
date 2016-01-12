@@ -30,8 +30,8 @@ Before proceeding with any portion of the installation of Integrator 3, please b
 
 The folder `Integrator` is the core application, and that is what this page will walk you through installing.  For instructions on installing the individual connectors, please see the following:
 
-* [Kayako Fusion](integrator3/installupgrade_guide/newfusion.md)
 * [Joomla! 3.x](integrator3/installupgrade_guide/newjoomla3.md)
+* [Kayako Fusion](integrator3/installupgrade_guide/newfusion.md)
 * [WHMCS v6](integrator3/installupgrade_guide/newwhmcs6.md)
 * [Wordpress 4](integrator3/installupgrade_guide/newwordpress4.md)
 

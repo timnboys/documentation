@@ -1,6 +1,6 @@
 ---
-title: Integrator 3 for Kayako Fusion - New Installs
-breadcrumb: /integrator3:Integrator 3/installupgrade_guide:Install and Upgrade Guide/newinstalls:New Kayako Fusion Installation
+title: Integrator 3 for Wordpress - New Installation 
+breadcrumb: /integrator3:Integrator 3/installupgrade_guide:Install and Upgrade Guide/newwordpress:New Wordpress Installation
 
 STYLE START
 \#gitdox ol > li {
@@ -16,9 +16,9 @@ STYLE END
 
 ---
 
-## Integrator 3: <small>Kayako Fusion Install</small>
+## Integrator 3: <small>Wordpress Install</small>
 
-### Download Integrator 3 for Kayako Fusion
+### Download Integrator 3 for Wordpress
 
 1.  Log into our web site using your account credentials.  You may use either your email address and password or your username and password.
 2.  Navigate to the *Downloads* link on the main menu and select the latest release of Integrator 3 for download.
@@ -26,12 +26,12 @@ STYLE END
 4.  Navigate to the folder the archive was saved into and extract the contents of that folder into a convenient location.
 5.  Wherever you extract the archive you should see five folders: Fusion, Integrator, Joomla, WHMCS and Wordpress
 
-The folder `Fusion` contains the Integrator 3 for Kayako Fusion module files, and that is what this page will walk you through installing.  For instructions on installing the other connectors or the core app, please see the following:
+The folder `Wordpress` contains the Integrator 3 for Wordpress plugin files, and that is what this page will walk you through installing.  For instructions on installing the other connectors or the core app, please see the following:
 
 * [Core Application](integrator3/installupgrade_guide/newinstalls.md)
+* [Kayako Fusion](integrator3/installupgrade_guide/newfusion.md)
 * [Joomla! 3.x](integrator3/installupgrade_guide/newjoomla3.md)
 * [WHMCS v6](integrator3/installupgrade_guide/newwhmcs6.md)
-* [Wordpress 4](integrator3/installupgrade_guide/newwordpress4.md)
 
 ### Gather Requirements
 
@@ -42,30 +42,34 @@ To complete the installation of the Kayako Fusion plugin, you will need to have 
 
 ### Installation Procedure
 
-<div class="alert alert-danger"><strong>Backup Your Fusion Installation</strong><br />
-There are a number of file changes that must be made to your core Fusion file because Fusion does not include enough hooks to perform the tasks necessary for integration to take place.  This means there are a few core changes to Kayako Fusion files that must be done in order for Integrator 3 to properly hook into the application.  It is highly recommended that you take a backup of your files prior to proceeding to minimize any downtime in the event of a problem.
-</div>
-
-Now you are ready to install Integrator 3 for Kayako Fusion.
+Now you are ready to install Integrator 3 for Wordpress.
 
 #### File Uplaod and Module Activation
 
-1. Navigate into the `Fusion` folder you extracted and extract the archive contained within it.  These are the plugin files, contained within the `__apps` folder.<div class="alert alert-info"><strong>Important Change in Fusion 4.50</strong><br />
-As of Kayako Fusion v4.50, the __modules folder was renamed to __apps.  if you are installing into a version of Kayako Fusion earlier than 4.50, then be sure to rename the folder to `__modules` before proceding.
+1. Navigate into the `Wordpress` folder you extracted earlier and extract the archive contained within it.  These are the plugin files, contained within the `wp-content` folder.
+2. Upload the `wp-content` folder to your Wordpress root folder.
+3. Log into your Wordpress administration control panel.
+4. Click on *Plugins* on the left side where you will be taken to the Plugins page showing you the installed and available plugins for your Wordpress site.
+5. Find Integrator 3 in the list of plugins and click on Activate beneath the Integrator 3 plugin name.
+
+The Wordpress plugin for Integrator 3 should now be activated and ready to be configured!
+
+#### Creating an API User in Wordpress
+
+<div class="alert alert-warning"><strong>Protect This Account</strong>
+In order to permit the integration to take place between your Wordpress site and Integrator 3, it is necessary to add an administrator to your Wordpress user manager.  This user would have the same level of access to your Wordpress site as you do, so it is important not to lose the password for this account or give it to anyone else.
 </div>
-2. Upload the `__apps` folder to your Kayako Fusion root folder.
-3. Log into your Kayako Fusion administration control panel.
-4. Navigate to Options > Apps where you will see a list of all addon modules that are available for your Kayako Fusion application.
-5. Find the addon module called *Integrator 3* and click on it's name.
-6. Click on the Install button.
 
-#### Retrieve Kayako Fusion API Keys
-
-1. Log into your Kayako Fusion administration control panel.
-2. Navigate to Options > REST API > Settings
-3. Be sure *Enable API* is set to Yes - if not do so and click Update.
-4. Navigate to Options > REST API > API Information
-5. *COPY* the REST API Key and the Secret Key down into notepad or a text editor for the next step.
+1. Log into your Wordpress administration control panel
+2.Navigate to *Users* > *Add New* and complete the form as follows:
+  1. **Username:** apiadmin
+  2. **Email:** apiadmin@yourdomain.com
+  3. **First Name:** API
+  4. **Last Name:** Administrator
+  5. **Password:** Enter a password
+  6. **Password 2:** enter the same password
+  7. **Role:** Administrator
+3. Click on *Add New User* to complete the user form.
 
 #### Create the Connection in Integrator 3
 
