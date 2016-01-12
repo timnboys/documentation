@@ -106,7 +106,7 @@ As of Kayako Fusion v4.50, the __modules folder was renamed to __apps.  if you a
 Now you will need to edit some core Kayako Fusion files.  We try to check line numbers regularly as Kayako releases products, but we do miss some of them.  Please know these line numbers are not necessarily exact for your install, and you should gauge the location based on the fuction name the changes are made within as well as the lines before and after we provide.
 
 * **[Kayako Fusion 4.30](integrator3/fusionfilechanges/430.md)**
-
+* **[Kayako Fusion 4.40](integrator3/fusionfilechanges/440.md)**
 
 
 ### Next Steps
