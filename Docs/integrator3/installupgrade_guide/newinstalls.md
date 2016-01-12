@@ -45,45 +45,28 @@ To complete the installation of the core application, you will need to have the 
 We recommend a folder name of `accounts` or `my` or something generic to use.  We do not recommend using `integrator` as your installation folder, particularly if you are installing Integrator 3 as a subfolder of a Joomla! installation - this will cause problems when you install the Joomla! component.
 </div>
 
-### Upload Files
+### Installation Procedure
 
 Now you are ready to install Integrator 3.
 
 1. Navigate into the Integrator folder you extracted and extract the archive contained within it.  These are the core files.
 2. FTP the core files to your server in the Folder Location you determined above.
-3. {japopup type="image" content="media/gitdocs/integrator3/installupgrade_guide/assets/install-coreapp-1.png" width="1247" height="1032" title="Terms of Service"}<img src="assets/install-coreapp-1.png" width="100px" align="right" />{/japopup}
-In a browser, navigate to the installation folder.  For example, if you uploaded the files to a subfolder called `accounts`, navigate to http://yourdomain.com/accounts.  You should be shown a screen similar to the one to the right.  Once you arive at that screen, accept the Terms of Service to proceed.
-4. {japopup type="image" content="media/gitdocs/integrator3/installupgrade_guide/assets/install-coreapp-2.png" width="1247" height="1032" title="Database Credentials"}<img src="assets/install-coreapp-2.png" width="100px" align="right" />{/japopup}
-The next step is the database configuration.  Enter the credentials for your database, as you do the system will check the credentials on the fly to let you know if you can proceed or not.  If it checks out, press the Proceed to Requirements Check.
+3. In a browser, navigate to the installation folder.  For example, if you uploaded the files to a subfolder called `accounts`, navigate to http://yourdomain.com/accounts.  You should be shown a screen similar to the one to the right.  Once you arive at that screen, accept the Terms of Service to proceed.
+{japopup type="image" content="media/gitdocs/integrator3/installupgrade_guide/assets/install-coreapp-1.png" width="1247" height="1032" title="Terms of Service"}<img src="assets/install-coreapp-1.png" width="100px" align="center" />{/japopup}
+4. The next step is the database configuration.  Enter the credentials for your database, as you do the system will check the credentials on the fly to let you know if you can proceed or not.  If it checks out, press the Proceed to Requirements Check.
+{japopup type="image" content="media/gitdocs/integrator3/installupgrade_guide/assets/install-coreapp-2.png" width="1247" height="1032" title="Database Credentials"}<img src="assets/install-coreapp-2.png" width="100px" align="center" />{/japopup}
+5. Next is a check of your system to ensure you have adequate PHP, MySQL and extensions installed.  For most this will all be okay, simply click the Proceed to Permissions Check to continue.
+{japopup type="image" content="media/gitdocs/integrator3/installupgrade_guide/assets/install-coreapp-3.png" width="1247" height="1032" title="Requirements Check"}<img src="assets/install-coreapp-3.png" width="100px" align="center" />{/japopup}
+6. Now the installer will check some file permissions to ensure it can write to folders and files that are needed.  Again, for most this will check out, click Proceed to Install to continue.
+{japopup type="image" content="media/gitdocs/integrator3/installupgrade_guide/assets/install-coreapp-4.png" width="1247" height="1032" title="Permissions Check"}<img src="assets/install-coreapp-4.png" width="100px" align="center" />{/japopup}
+7. The final step before installation is to gather your admin information as well as your database name.  The screen looks similar to the screen below.
+{japopup type="image" content="media/gitdocs/integrator3/installupgrade_guide/assets/install-coreapp-5.png" width="1247" height="1032" title="Installation Questions"}<img src="assets/install-coreapp-5.png" width="100px" align="center" />{/japopup}
+<div class="alert alert-info"><strong>Database Name</strong><br />
+Depending on your server configuration, you may or may not be able to create a new database.  If not, you can select a database you are already using, just be sure to use a unique prefix in front to avoid conflicts with other applications using the database.
+</div>
+8. Complete!  You should land on the log in screen for the admin area of Integrator 3, which looks similar to this screen.
+{japopup type="image" content="media/gitdocs/integrator3/installupgrade_guide/assets/install-coreapp-6.png" width="462" height="360" title="Install Complete"}<img src="assets/install-coreapp-6.png" width="100px" align="center" />{/japopup}
 
-
-### Upload and Activate Dunamis Framework for WHMCS
-
-1. If you have not already done so, download the latest release of the [Dunamis Framework for WHMCS here|https://www.gohigheris.com/customer-downloads/dunamis-framework] (you must be signed in to do so).
-2. Extract the *dunamis_whmcs_v{x.y.z}.zip* file to a folder on your local computer.  Contained within this archive are many files within two folders, an includes folder and a modules folder.
-3. Using your favorite FTP program, upload the includes and modules folders to your WHMCS application.  You will notice that you have an includes and a modules folder already in place on your server where WHMCS is installed.  This is normal and expected.
-4. Once the files have completely uploaded, log into the administrative back end of WHMCS using an account with sufficient privileges to activate and configure addon modules.
-5. From the WHMCS Admin Home Screen, navigate to _Setup_ > _Addon Modules_.
-6. Locate the _Dunamis Framework_ addon module in the list and click the _Activate_ button.
-7. Once activated, click on the _Configure_ button and give your administrative account privileges to access the module.
-
-### Upload J!WHMCS Integrator Addon Module for WHMCS
-
-1. Extract the *jwhmcs_for_whmcs_v{x.y.z}.zip* file to a folder on your local computer.  Contained within this archive are many files within a single folder called modules.
-2. Using your favorite FTP program, upload the modules folder to your WHMCS application.  You will notice that you have a modules folder already in place on your server where WHMCS is installed.  This is normal and expected.
-3. Once the files have completely uploaded, log into the administrative back end of WHMCS using an account with sufficient privileges to activate and configure addon modules.
-4. From the WHMCS Admin Home Screen, navigate to _Setup_ > _Addon Modules_.
-5. Locate the _J!WHMCS Integrator_ addon module in the list and click the _Activate_ button.
-6. Once activated, click on the _Configure_ button and give your administrative account privileges to access the module.
-
-### Install J!WHMCS Integrator Archive into Joomla!
-
-1. Locate the *com_jwhmcs_v{x.y.z}.zip* file that you downloaded from our site.  This one file contains the J!WHMCS component, the authentication, system and user plugins as well as the Dunamis Library and component required for J!WHMCS Integrator v2.5 to operate in Joomla.
-2. Log into your Joomla backend using an account with Super User privileges.
-3. Navigate to _Extensions_ > _Extension Manager_.
-4. Under the_ Upload Package_ _File_ section click on the _Browse_ button and locate the com_jwhmcs_v{x.y.z}.zip file you located in step 1.
-5. Click on _Upload and Install_.
-6. Joomla will now install and activate the Dunamis library, Dunamis component, J!WHMCS Integrator component, Authentication - JWHMCS, System - JWHMCS and User - JWHMCS plugins.
 
 ### Next Steps
 
