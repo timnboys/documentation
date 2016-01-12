@@ -35,7 +35,7 @@ The folder `Wordpress` contains the Integrator 3 for Wordpress plugin files, and
 
 ### Gather Requirements
 
-To complete the installation of the Kayako Fusion plugin, you will need to have the following information:
+To complete the installation of the Wordpress plugin, you will need to have the following information:
 
 * **FTP Credentials** - you will need to upload files to your server
 * **Integrator 3 Access Details** - you will need an administrator account in Integrator 3 that has API access to the core application.  To find out about setting this up, please see [Creating an API Admin in Integrator 3](integrator3/howtoguides/createi3apiadmin.md).
