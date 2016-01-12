@@ -15,11 +15,8 @@ Before proceeding with any portion of the installation of Integrator 3, please b
 3.  Select the file called *Complete Integrator 3 Archive* and save the file to your local computer.
 4.  Navigate to the folder the archive was saved into and extract the contents of that folder into a convenient location.
 5.  Wherever you extract the archive you should see five folders: Fusion, Integrator, Joomla, WHMCS and Wordpress
-6.  Navigate into the Integrator folder you just extracted.  You will see another archive - extract that file - this is the core application.
 
-The core application is what you will be working with for the rest of this page.
-
-For instructions on installing the individual connectors, please see the following:
+The folder `Integrator` is the core application, and that is what this page will walk you through installing.  For instructions on installing the individual connectors, please see the following:
 
 * [Kayako Fusion](integrator3/installupgrade_guide/newfusion.md)
 * [Joomla! 3.x](integrator3/installupgrade_guide/newjoomla3.md)
@@ -31,29 +28,24 @@ For instructions on installing the individual connectors, please see the followi
 
 To complete the installation of the core application, you will need to have the following information:
 
-* FTP Credentials - you will need to upload files to your server
-* Database Connection - you will need to have either a clean database or an existing database with a username and password to access it.
-* Integrator 3 License - you should have been emailed a copy of your Integrator 3 license, if not you can log into our site and access it there.
-* Folder Location - you will want to install the core application into a folder that is friendly for your visitors as they may see the folder in the URL when they log in or when they register.
+* **FTP Credentials** - you will need to upload files to your server
+* **Database Connection** - you will need to have either a clean database or an existing database with a username and password to access it.
+* **Integrator 3 License** - you should have been emailed a copy of your Integrator 3 license, if not you can log into our [Client Portal|https://client.gohigheris.com/clientarea.php] to retrieve it.
+* **Folder Location** - you will want to install the core application into a folder that is friendly for your visitors as they may see the folder in the URL when they log in or when they register.
 
 <div class="alert alert-warning"><strong>Recommended Folder Name</strong><br />
 We recommend a folder name of `accounts` or `my` or something generic to use.  We do not recommend using `integrator` as your installation folder, particularly if you are installing Integrator 3 as a subfolder of a Joomla! installation - this will cause problems when you install the Joomla! component.
 </div>
 
+### Upload Files
 
-The following are required to have on hand prior to installing J!WHMCS Integrator
+Now you are ready to install Integrator 3.
 
-* J!WHMCS Integrator license key (accessed through your [Client Portal|https://client.gohigheris.com/clientarea.php] on our web site)
-* Latest release of Dunamis Framework (minimum version 1.4.0)
-* Latest release of J!WHMCS Integrator archive
+1. Navigate into the Integrator folder you extracted and extract the archive contained within it.  These are the core files.
+2. FTP the core files to your server in the Folder Location you determined above.
+3. In a browser, navigate to the installation folder.  For example, if you uploaded the files to a subfolder called `accounts`, navigate to http://yourdomain.com/accounts.  You should be shown a screen similar to the one below:<br />{japopup type="image" content="media/gitdocs/integrator3/installupgrade_guide/assets/install-coreapp-1.png" width="1247" height="1032" title="Terms of Service"}<img src="assets/install-coreapp-1.png" width="100px" />{/japopup}
+4.  
 
-#### Locate Your FTP Credentials
-
-For the WHMCS portion of the product installation, you will need to have FTP access to upload files to your WHMCS application.  Please consult your hosting provider for more information on locating your FTP credentials.
-
-#### Read Through The Installation Documentation
-
-Before jumping to conclusions on how the product "should" be installed, be sure to read through the documentation to see how it actually is supposed to be done.  Previous versions of J!WHMCS Integrator included an automatic installation procedure that loaded everything into place for you.  The new version has been incredibly simplified and as such, does not have the ability to automatically install the WHMCS portion of the files into place.
 
 ### Upload and Activate Dunamis Framework for WHMCS
 
