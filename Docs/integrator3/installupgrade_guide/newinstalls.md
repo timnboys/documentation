@@ -51,10 +51,10 @@ Now you are ready to install Integrator 3.
 
 1. Navigate into the Integrator folder you extracted and extract the archive contained within it.  These are the core files.
 2. FTP the core files to your server in the Folder Location you determined above.
-3. In a browser, navigate to the installation folder.  For example, if you uploaded the files to a subfolder called `accounts`, navigate to http://yourdomain.com/accounts.  You should be shown a screen similar to the one to the right.  Once you arive at that screen, accept the Terms of Service to proceed.<br/>
-{japopup type="image" content="media/gitdocs/integrator3/installupgrade_guide/assets/install-coreapp-1.png" width="1247" height="1032" title="Terms of Service"}<img src="assets/install-coreapp-1.png" width="100px" align="center" />{/japopup}
-4. The next step is the database configuration.  Enter the credentials for your database, as you do the system will check the credentials on the fly to let you know if you can proceed or not.  If it checks out, press the Proceed to Requirements Check.<br/>
-{japopup type="image" content="media/gitdocs/integrator3/installupgrade_guide/assets/install-coreapp-2.png" width="1247" height="1032" title="Database Credentials"}<img src="assets/install-coreapp-2.png" width="100px" align="center" />{/japopup}
+3. {japopup type="image" content="media/gitdocs/integrator3/installupgrade_guide/assets/install-coreapp-1.png" width="1247" height="1032" title="Terms of Service"}<img src="assets/install-coreapp-1.png" width="100px" align="right" />{/japopup}
+In a browser, navigate to the installation folder.  For example, if you uploaded the files to a subfolder called `accounts`, navigate to http://yourdomain.com/accounts.  You should be shown a screen similar to the one to the right.  Once you arive at that screen, accept the Terms of Service to proceed.
+4. {japopup type="image" content="media/gitdocs/integrator3/installupgrade_guide/assets/install-coreapp-2.png" width="1247" height="1032" title="Database Credentials"}<img src="assets/install-coreapp-2.png" width="100px" align="right" />{/japopup}
+The next step is the database configuration.  Enter the credentials for your database, as you do the system will check the credentials on the fly to let you know if you can proceed or not.  If it checks out, press the Proceed to Requirements Check.
 5. Next is a check of your system to ensure you have adequate PHP, MySQL and extensions installed.  For most this will all be okay, simply click the Proceed to Permissions Check to continue.<br/>
 {japopup type="image" content="media/gitdocs/integrator3/installupgrade_guide/assets/install-coreapp-3.png" width="1247" height="1032" title="Requirements Check"}<img src="assets/install-coreapp-3.png" width="100px" align="center" />{/japopup}
 6. Now the installer will check some file permissions to ensure it can write to folders and files that are needed.  Again, for most this will check out, click Proceed to Install to continue.<br/>
@@ -69,9 +69,18 @@ Depending on your server configuration, you may or may not be able to create a n
 
 ### Next Steps
 
-After you have installed the product into your site, you are now read to configure the product.  Configuration must be done before your Joomla and WHMCS installations will work together.
+After you have installed the product into your site, you are now read to configure the product and install connectors.
 
-* [Add or Change Your J!WHMCS License](Add or Change Your License)
-* [Configuration Walk Through](http://)
-* [Setup The Shared API Token](Setup the Shared API Token)
-* [API Connection Manager in Joomla](https://support.gohigheris.com/docs/display/J25/API+Connection+Manager+in+Joomla)
+##### Connector Installation
+
+* [Kayako Fusion](integrator3/installupgrade_guide/newfusion.md)
+* [Joomla! 3.x](integrator3/installupgrade_guide/newjoomla3.md)
+* [WHMCS v6](integrator3/installupgrade_guide/newwhmcs6.md)
+* [Wordpress 4](integrator3/installupgrade_guide/newwordpress4.md)
+
+##### Configuration and How-Tos
+
+* [Access Integrator 3 Admin Area](integrator3/howtoguides/accessadminarea.md)
+* [Add or Change Your License](integrator3/howtoguides/licensechange.md)
+* [Creating a New Language Translation](integrator3/howtoguides/createnewlanguage.md)
+* [Remove index.php File from URL](integrator3/howtoguides/removeindexfile.md)
