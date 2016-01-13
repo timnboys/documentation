@@ -20,7 +20,8 @@ These connections support language mapping:
 * Kayako Fusion
 * WHMCS
 
-<div class="alert alert-warning"><strong>Wordpress Multi-language Not Supported</strong>Currently multi-language capabilities are not supported natively by Wordpress and as such plugins extending this capability are required.  Integrator 3 is not designed to work with those plugins at this time.</div> 
+<div class="alert alert-warning"><strong>Wordpress Multi-language Not Supported</strong>
+Currently multi-language capabilities are not supported natively by Wordpress and as such plugins extending this capability are required.  Integrator 3 is not designed to work with those plugins at this time.</div> 
 
 ### How To Configure Language Mapping
 
