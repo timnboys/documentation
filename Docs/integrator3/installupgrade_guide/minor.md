@@ -2,6 +2,19 @@
 title: Integrator 3 - Minor Integrator 3 Upgrades
 breadcrumb: /integrator3:Integrator 3/installupgrade_guide:Install and Upgrade Guide/minor:Minor Integrator 3 Upgrades/
 
+
+STYLE START
+\#gitdox ol > li {
+	clear: both;
+	margin-bottom: 15px;
+}
+
+\#gitdox ol > li img {
+	margin-bottom: 10px;
+}
+
+STYLE END
+
 ---
 
 ### What is a Minor Upgrade?
