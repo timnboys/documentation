@@ -47,7 +47,7 @@ Welcome to the Go Higher Documentation pages.  This is your single best source o
 
 *  **[![J!WHMCS Integrator](assets/jwhmcs.png)<br/>J!WHMCS Integrator](jwhmcs)**
 
-*  **[![Integrator 3](assets/integrator3.png)<br/>Integrator 3](https://support.gohigheris.com/docs/display/INT3/Product+Documentation)**
+*  **[![Integrator 3](assets/integrator3.png)<br/>Integrator 3](integrator3)**
 
 *  **[![Belong](assets/belong.png)<br/>Belong](belong)**
 
