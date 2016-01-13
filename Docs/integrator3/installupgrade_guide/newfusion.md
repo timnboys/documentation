@@ -1,6 +1,6 @@
 ---
 title: Integrator 3 for Kayako Fusion - New Installs
-breadcrumb: /integrator3:Integrator 3/installupgrade_guide:Install and Upgrade Guide/newinstalls:New Kayako Fusion Installation
+breadcrumb: /integrator3:Integrator 3/installupgrade_guide:Install and Upgrade Guide/newfusion:New Kayako Fusion Installation
 
 STYLE START
 \#gitdox ol > li {

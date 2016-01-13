@@ -20,8 +20,12 @@ breadcrumb: /integrator3:Integrator 3/installupgrade_guide:Install and Upgrade G
 * **[Upgrading - Version 3.0 to 3.1](integrator3/installupgrade_guide/upgrade31.md)**
 
 ### Configuration Guide
-* **[Configuration Walk Through](integrator3/installupgrade_guide/configwalkthru.md)**
-* **[Configuration In Depth:  Joomla!](integrator3/installupgrade_guide/configjoomla.md)**
-* **[Configuration In Depth:  Kayako](integrator3/installupgrade_guide/configkayako.md)**
-* **[Configuration In Depth:  WHMCS](integrator3/installupgrade_guide/configwhmcs.md)**
-* **[Configuration In Depth:  Wordpress](integrator3/installupgrade_guide/configwordpress.md)**
+* **[Language Mapping](integrator3/installupgrade_guide/languagemapping.md)**
+* **[Page Mapping](integrator3/installupgrade_guide/pagemapping.md)**
+
+### What Does This Do?
+* **[Reference: Integrator 3](integrator3/reference/integrator3.md)**
+* **[Reference: Joomla! Component](integrator3/reference/joomla.md)**
+* **[Reference: Kayako Fusion Addon](integrator3/reference/kayakofusion.md)**
+* **[Reference: WHMCS Addon](integrator3/reference/whmcs.md)**
+* **[Reference: Wordpress Plugin](integrator3/reference/wordpress.md)**

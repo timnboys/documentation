@@ -47,6 +47,15 @@ To check for updates and perform any updates:
 <img src="assets/minorupgrade-updatenowbutton.png" align="center" />
 5. Click on the *Update Now* button and if the connection supports an automatic update it will be performed for you.
 
+The connections that currently support using the automatic update include:
+
+* Integrator 3 Core Application
+* Joomla Connection
+* WHMCS Connection
+* Wordpress Connection (through the Wordpress plugin update feature)
+
+Other connections must be manualy updated.
+
 #### Manual Updates
 
 To do a manual update, you will want to follow the **[Download Integrator 3](integrator3/installupgrade_guide/newinstalls.md)** procedure and then:
