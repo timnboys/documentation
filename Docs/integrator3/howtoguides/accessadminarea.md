@@ -1,5 +1,5 @@
 ---
-title: Integrator 3 - How To:  Accessing the Integrator 3 Administration Area 
+title: Integrator 3 - How To Guide:  Accessing the Integrator 3 Administration Area 
 breadcrumb: /integrator3:Integrator 3/howtoguides:How To Guides/accessadminarea:Accessing the Integrator 3 Administration Area
  
 ---

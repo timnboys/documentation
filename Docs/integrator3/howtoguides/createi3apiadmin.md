@@ -1,5 +1,5 @@
 ---
-title: Integrator 3 - How To:  Create an Integrator 3 API User 
+title: Integrator 3 - How To Guide:  Create an Integrator 3 API User 
 breadcrumb: /integrator3:Integrator 3/howtoguides:How To Guides/createi3apiadmin:Create an Integrator 3 API User
  
 ---

@@ -1,5 +1,5 @@
 ---
-title: Integrator 3 - How To:  Remove The index.php File 
+title: Integrator 3 - How To Guide:  Remove The index.php File 
 breadcrumb: /integrator3:Integrator 3/howtoguides:How To Guides/removeindexfile:Remove The index.php File
  
 ---

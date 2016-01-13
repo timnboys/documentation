@@ -11,13 +11,14 @@ breadcrumb: /integrator3:Integrator 3/howtoguides:How To Guides
 * **[Accessing Your Download ID](common/accessdownloadid.md)**
 * **[Access Integrator 3 Admin Area](integrator3/howtoguides/accessadminarea.md)**
 * **[Add or Change Your License](integrator3/howtoguides/licensechange.md)**
+* **[Creating An API User in Integrator 3](integrator3/howtoguides/createi3apiadmin.md)**
 * **[Remove index.php File from URL](integrator3/howtoguides/removeindexfile.md)**
 
 ##### WHMCS Specific
 
 * **[Creating An API User in WHMCS](common/createapiuser.md)**
 * **[Granting API Access in WHMCS](common/grantapiaccess.md)**
-* **[How to Handle WHMCS Upgrades](jwhmcs/howtoguides/whmcsupgrades.md)**
+* **[How to Handle WHMCS Upgrades](integrator3/howtoguides/whmcsupgrades.md)**
 
 #### Advanced Setup
 

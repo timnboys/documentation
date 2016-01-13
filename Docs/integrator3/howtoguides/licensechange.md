@@ -1,5 +1,5 @@
 ---
-title: Integrator 3 - How To:  Add or Change Your License 
+title: Integrator 3 - How To Guide:  Add or Change Your License 
 breadcrumb: /integrator3:Integrator 3/howtoguides:How To Guides/licensechange:Add or Change Your License
  
 ---
