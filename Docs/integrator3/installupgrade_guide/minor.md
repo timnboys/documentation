@@ -17,6 +17,8 @@ STYLE END
 
 ---
 
+## Integrator 3: <small>Minor Upgrades</small>
+
 ### What is a Minor Upgrade?
 
 A minor upgrade is one that makes minor system adjustments and corrections for issues that have been discovered.  Our products are versioned so that the first digit in the version number essentially represents the product itself.  The second digit is a major revision, and the third digit is a minor revision.
