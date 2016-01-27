@@ -72,7 +72,7 @@ The Integrator 3 for WHMCS addon should now be activated and ready to be configu
 ##### Connection Basics
 
 * **Connection Name** - You can name the connection anything you prefer to use.
-* **Connection URL** - This must be the URL to your Joomla site, without any queries or template selections etc.
+* **Connection URL** - This must be the URL to your WHMCS site, without any queries or template selections etc.
 
 ##### API Settings
 
@@ -85,7 +85,7 @@ The Integrator 3 for WHMCS addon should now be activated and ready to be configu
 
 1. Log into your WHMCS administration control panel.
 2. Navigate to *Addons* > *Integrator 3*.  Click on the *Settings* link at the top center of the page.
-3. Fill in the fields below and press 'Save Settings' to connect your Joomla site to Integrator 3.
+3. Fill in the fields below and press 'Save Settings' to connect your WHMCS site to Integrator 3.
   * **Integrator URL** - This should be the fully qualified domain name to your Integrator 3 application.
   * **Secret Token** - This is the API Key that you copied down out of Integrator 3 in the section entitled 'Create the Connection in Integrator 3'.
   * **Connection ID** - This is the Connection ID you copied out of Integrator 3 in the section entitled 'Create the Connection in Integrator 3'.
