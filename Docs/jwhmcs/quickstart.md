@@ -14,10 +14,10 @@ We strive to provide the best possible products, services and support to meet yo
 
 The following software requirements must be met for J!WHMCS Integrator to operate:
 
-* PHP 5.3+
+* PHP 5.6+
 * MySQL 5+
 * Joomla! 2.5 / 3.4
-* WHMCS 5.3+
+* WHMCS 6.0+
 * Dunamis Framework 1.4+
 
 Older versions of Joomla! or WHMCS may work, however they cannot be supported and should be upgraded to ensure proper functionality (as well as security and other considerations).  Joomla! version 1.5 is no longer supported.
