@@ -20,7 +20,7 @@ To register on our site, please click on the green button at the top right that 
 
 ### Your site won't permit me to use my email address.  Why?
 
-In order to cut down on fraud and abuse, we do not permit registrations from certain domains that are known to be used for abuse.  These domains do include free domains such as hotmail, gmail and yahoo.
+In order to cut down on fraud and abuse, we run automated fraud checks on every registration to reduce and cut down on any fraud and abuse before it happens.
 
 ### Your registration form indicates my email is in use.  Why?
 

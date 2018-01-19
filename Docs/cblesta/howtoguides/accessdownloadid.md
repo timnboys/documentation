@@ -1,6 +1,6 @@
 ---
-title: Common Tasks: Accessing your Download ID
-breadcrumb: /common:Common Tasks/accessdownloadid:Accessing your Download ID/
+title: C!Blesta - How To Guide: Accessing your Download ID
+breadcrumb: /cblesta:C!Blesta/howtoguides:How To Guides/accessdownloadid:Accessing your Download ID/
  
 ---
 
@@ -23,7 +23,6 @@ If you have your Download ID in place but your Support and Upgrade Pack is NOT c
 ### Accessing your Download ID
 
 To retrieve your Download ID:
-
 1. Visit our web site at https://cubedata.net
 2. Click on the Login button on the top menu bar
 3. Enter your log in details and press Log In
