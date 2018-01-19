@@ -1,23 +1,23 @@
 ---
-title: J!BLesta
-breadcrumb: /jblesta:J!Blesta/
+title: C!BLesta
+breadcrumb: /Cblesta:C!Blesta/
  
 ---
 
-## J!Blesta v1.2
+## C!Blesta v1.0
 
 #### **[Quick Start Guide](jblesta/quickstart.md)**<br />
-First time users should start here to get started quickly using J!Blesta.
+First time users should start here to get started quickly using C!Blesta.
 
 - - -
 
-#### **[Installation, Upgrade and Configuration Guide](jblesta/installupgrade_guide)**<br />
-If you already have J!Blesta installed, or want to configure it further, check this section for more information.
+#### **[Installation, Upgrade and Configuration Guide](Cblesta/installupgrade_guide)**<br />
+If you already have C!Blesta installed, or want to configure it further, check this section for more information.
 
 - - -
 
 #### **[How To Guides](jblesta/howtoguides)**<br />
-Common tasks relating to using and working with J!Blesta, Blesta and Joomla can be found here.
+Common tasks relating to using and working with C!Blesta, Blesta and ModX/Concrete5 can be found here.
 
 - - -
 
