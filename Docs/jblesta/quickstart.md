@@ -1,6 +1,6 @@
 ---
-title: J!Blesta - Quick Start Guide
-breadcrumb: /jblesta:J!Blesta/quickstart:Quick Start Guide
+title: C!Blesta - Quick Start Guide
+breadcrumb: /Cblesta:C!Blesta/quickstart:Quick Start Guide
  
 ---
 
