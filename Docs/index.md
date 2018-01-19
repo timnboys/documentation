@@ -51,7 +51,7 @@ Welcome to the Go Higher Documentation pages.  This is your single best source o
 
 *  **[![Belong](assets/belong.png)<br/>Belong](belong)**
 
-*  **[![J!Blesta](assets/jblesta.png)<br/>J!Blesta](jblesta)**
+*  **[![C!Blesta](assets/jblesta.png)<br/>C!Blesta](cblesta)**
 
 *  **[![In Touch](assets/intouch.png)<br/>In Touch](https://support.gohigheris.com/docs/display/INT/In+Touch+Home)**
 
